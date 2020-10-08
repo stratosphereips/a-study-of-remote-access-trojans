@@ -13,6 +13,17 @@ This repository contains a curated list of papers, articles and other sources re
 * https://pen-testing.sans.org/resources/papers/gcih/tracking-orifice-trojan-university-network-101743 [[Web Archive](https://web.archive.org/web/20190608080456/https://pen-testing.sans.org/resources/papers/gcih/tracking-orifice-trojan-university-network-101743)]
 * http://www.symantec.com/avcenter/warn/backorifice.html [[Web Archive](https://web.archive.org/web/20190608080457/http://www.symantec.com/avcenter/warn/backorifice.html)] 
 
+## Subseven
+![First Seen](https://img.shields.io/badge/Year-1999-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange) ![Alias](https://img.shields.io/badge/Alias-Sub7-503040) ![Alias](https://img.shields.io/badge/Alias-Backdoor%20G-503040) ![Alias](https://img.shields.io/badge/Alias-Sub7Server-503040) 
+
+* https://www.symantec.com/security_response/writeup.jsp?docid=2001-020114-5445-99 [[Web Archive](https://web.archive.org/web/20190211200320/https://www.symantec.com/security-center/writeup/2001-020114-5445-99)] 
+* https://www.sciencedirect.com/topics/computer-science/remote-administration-tool [[Web Archive](https://web.archive.org/web/20201008145609/https://www.sciencedirect.com/topics/computer-science/remote-administration-tool)] 
+* https://en.wikipedia.org/wiki/Sub7
+* https://www.giac.org/paper/gsec/453/subseven-giving-control-machine/101094 [[Web Archive](https://web.archive.org/web/20201008145832/https://www.giac.org/paper/gsec/453/subseven-giving-control-machine/101094)] 
+* https://www.linkedin.com/pulse/subseven-malware-launched-1000-careers-jack-rhysider/ [[Web Archive](https://web.archive.org/web/20201008150036/https://www.linkedin.com/pulse/subseven-malware-launched-1000-careers-jack-rhysider/)] 
+* https://www.sans.org/reading-room/whitepapers/malicious/deconstructing-subseven-the-trojan-horse-of-choice-953 [[Web Archive](https://web.archive.org/web/20140202135110/http://www.sans.org/reading-room/whitepapers/malicious/deconstructing-subseven-the-trojan-horse-of-choice-953)] 
+* https://pen-testing.sans.org/resources/papers/gcih/seven-risk-internet-security-102981 [[Web Archive](https://web.archive.org/web/20150922142519/http://pen-testing.sans.org/resources/papers/gcih/seven-risk-internet-security-102981)] 
+
 ## CyberGate RAT
 
 ![First Seen](https://img.shields.io/badge/Year-2011-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange) ![Client Source Code](https://img.shields.io/badge/Client-delphi-yellow) ![Server Source Code](https://img.shields.io/badge/Server-C++-yellow)
