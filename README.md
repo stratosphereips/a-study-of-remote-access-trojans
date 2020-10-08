@@ -2,6 +2,17 @@
 
 This repository contains a curated list of papers, articles and other sources related to remote access trojans. For corrections, suggestions, or missing papers, please either open an issue or submit a pull request.
 
+## Back Orifice
+![First Seen](https://img.shields.io/badge/Year-1998-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange) ![Targets](https://img.shields.io/badge/Targets-Unix-orange) ![Alias](https://img.shields.io/badge/Alias-BO2K-503040) ![Alias](https://img.shields.io/badge/Alias-Body%20Odour-503040) 
+
+* https://en.wikipedia.org/wiki/Back_Orifice [[Web Archive](https://web.archive.org/web/20200429081647/https://en.wikipedia.org/wiki/Back_Orifice)] 
+* https://sourceforge.net/projects/boxp/ [[Web Archive](https://web.archive.org/web/20160731115412/https://sourceforge.net/projects/boxp/)] 
+* https://www.f-secure.com/v-descs/bo2k.shtml [[Web Archive](https://web.archive.org/web/20191227143749/https://www.f-secure.com/v-descs/bo2k.shtml)] 
+* http://www.cultdeadcow.com/tools/bo.html
+* https://github.com/MISP/misp-galaxy/blob/master/clusters/rat.json [[Web Archive](https://web.archive.org/web/20200518134647/https://github.com/MISP/misp-galaxy/blob/master/clusters/rat.json)] 
+* https://pen-testing.sans.org/resources/papers/gcih/tracking-orifice-trojan-university-network-101743 [[Web Archive](https://web.archive.org/web/20190608080456/https://pen-testing.sans.org/resources/papers/gcih/tracking-orifice-trojan-university-network-101743)]
+* http://www.symantec.com/avcenter/warn/backorifice.html [[Web Archive](https://web.archive.org/web/20190608080457/http://www.symantec.com/avcenter/warn/backorifice.html)] 
+
 ## CyberGate RAT
 
 ![First Seen](https://img.shields.io/badge/Year-2011-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange) ![Client Source Code](https://img.shields.io/badge/Client-delphi-yellow) ![Server Source Code](https://img.shields.io/badge/Server-C++-yellow)
