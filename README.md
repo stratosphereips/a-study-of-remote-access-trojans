@@ -5,6 +5,7 @@ This repository contains a curated list of papers, articles and other sources re
 ## Back Orifice
 ![First Seen](https://img.shields.io/badge/Year-1998-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange) ![Targets](https://img.shields.io/badge/Targets-Unix-orange) ![Alias](https://img.shields.io/badge/Alias-BO2K-503040) ![Alias](https://img.shields.io/badge/Alias-Body%20Odour-503040) 
 
+* [1998 Hacker Group Says Program Can Exploit Microsoft Security Hole](https://archive.nytimes.com/www.nytimes.com/library/tech/98/08/cyber/articles/04hacker.html)
 * https://en.wikipedia.org/wiki/Back_Orifice [[Web Archive](https://web.archive.org/web/20200429081647/https://en.wikipedia.org/wiki/Back_Orifice)] 
 * https://sourceforge.net/projects/boxp/ [[Web Archive](https://web.archive.org/web/20160731115412/https://sourceforge.net/projects/boxp/)] 
 * https://www.f-secure.com/v-descs/bo2k.shtml [[Web Archive](https://web.archive.org/web/20191227143749/https://www.f-secure.com/v-descs/bo2k.shtml)] 
