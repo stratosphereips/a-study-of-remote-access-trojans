@@ -27,7 +27,7 @@ This repository contains a curated list of papers, articles and other sources re
 ## Bifrost
 ![First Seen](https://img.shields.io/badge/Year-2004-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange) ![Alias](https://img.shields.io/badge/Alias-Bifrose-503040) 
 
-* https://www.planetcreator.net/study-on-the-undetectable-server-bifrost-1-2d-for-the-av/ [[Web Archive](https://web.archive.org/save/https://www.planetcreator.net/study-on-the-undetectable-server-bifrost-1-2d-for-the-av/)] 
+* https://www.planetcreator.net/study-on-the-undetectable-server-bifrost-1-2d-for-the-av/ [[Web Archive](https://web.archive.org/web/20200518182936/https://www.planetcreator.net/study-on-the-undetectable-server-bifrost-1-2d-for-the-av/)] 
 * http://www.pandasecurity.com/cyprus/homeusers/security-info/54909/Bifrost.B [[Web Archive](https://web.archive.org/web/20200518183218/https://www.pandasecurity.com/en/security-info/?idVirus=54909)] 
 * http://malware-info.blogspot.lu/2008/10/bifrost-trojan.html [[Web Archive](https://web.archive.org/web/20100719210545/http://malware-info.blogspot.com/2008/10/bifrost-trojan.html)] 
 * https://www.revolvy.com/main/index.php?s=Bifrost%20(trojan%20horse)&item_type=topic 
