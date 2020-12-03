@@ -45,3 +45,10 @@ This repository contains a curated list of papers, articles and other sources re
 - [2013 CyberGate RAT COMPLETE TUTORIAL](https://atjeh-vb6.blogspot.com/2013/05/cybergate-rat-complete-tutorial.html) [[Web Archive](https://web.archive.org/web/20201008135258/https://atjeh-vb6.blogspot.com/2013/05/cybergate-rat-complete-tutorial.html)]
 - [2014 CyberGate: En febrero nuestra aerolínea te obsequia...](http://oberheimdmx.blogspot.nl/2014/01/cybergate-en-febrero-nuestra-obsequia.html) [[Web Archive](https://web.archive.org/web/20201008135727/http://oberheimdmx.blogspot.com/2014/01/cybergate-en-febrero-nuestra-obsequia.html)] 
 
+## ObliqueRAT
+
+![First Seen](https://img.shields.io/badge/Year-2020-blue)
+
+- [2020 ObliqueRAT: New RAT hits victims' endpoints via malicious documents] (https://blog.talosintelligence.com/2020/02/obliquerat-hits-victims-via-maldocs.html) [[Web Archive](https://web.archive.org/web/20200311091640/https://blog.talosintelligence.com/2020/02/obliquerat-hits-victims-via-maldocs.html)]
+- [2020 Transparent Tribe: Evolution analysis, part 2] (https://securelist.com/transparent-tribe-part-2/98233/) [[Web Archive](https://web.archive.org/web/20201026064017/https://securelist.com/transparent-tribe-part-2/98233/)]
+- [South Asia APT organizes the "transparent tribe" to compete with opponents on mobile] (https://www.secrss.com/articles/24995) [[Web Archive](https://web.archive.org/web/20201203173735/https://www.secrss.com/articles/24995]
