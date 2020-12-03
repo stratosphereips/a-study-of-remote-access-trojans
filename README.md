@@ -6,13 +6,13 @@ This repository contains a curated list of papers, articles and other sources re
 ![First Seen](https://img.shields.io/badge/Year-1998-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange) ![Targets](https://img.shields.io/badge/Targets-Unix-orange) ![Alias](https://img.shields.io/badge/Alias-BO2K-503040) ![Alias](https://img.shields.io/badge/Alias-Body%20Odour-503040) 
 
 * [1998 Hacker Group Says Program Can Exploit Microsoft Security Hole](https://archive.nytimes.com/www.nytimes.com/library/tech/98/08/cyber/articles/04hacker.html)
-* https://en.wikipedia.org/wiki/Back_Orifice [[Web Archive](https://web.archive.org/web/20200429081647/https://en.wikipedia.org/wiki/Back_Orifice)] 
-* https://sourceforge.net/projects/boxp/ [[Web Archive](https://web.archive.org/web/20160731115412/https://sourceforge.net/projects/boxp/)] 
-* https://www.f-secure.com/v-descs/bo2k.shtml [[Web Archive](https://web.archive.org/web/20191227143749/https://www.f-secure.com/v-descs/bo2k.shtml)] 
-* http://www.cultdeadcow.com/tools/bo.html
-* https://github.com/MISP/misp-galaxy/blob/master/clusters/rat.json [[Web Archive](https://web.archive.org/web/20200518134647/https://github.com/MISP/misp-galaxy/blob/master/clusters/rat.json)] 
-* https://pen-testing.sans.org/resources/papers/gcih/tracking-orifice-trojan-university-network-101743 [[Web Archive](https://web.archive.org/web/20190608080456/https://pen-testing.sans.org/resources/papers/gcih/tracking-orifice-trojan-university-network-101743)]
-* http://www.symantec.com/avcenter/warn/backorifice.html [[Web Archive](https://web.archive.org/web/20190608080457/http://www.symantec.com/avcenter/warn/backorifice.html)] 
+* [Wikipedia: Back Orifice](https://en.wikipedia.org/wiki/Back_Orifice) [[Web Archive](https://web.archive.org/web/20200429081647/https://en.wikipedia.org/wiki/Back_Orifice)] 
+* [Back Orifice XP](https://sourceforge.net/projects/boxp/) [[Web Archive](https://web.archive.org/web/20160731115412/https://sourceforge.net/projects/boxp/)] 
+* [Threat Description: BO2K](https://www.f-secure.com/v-descs/bo2k.shtml) [[Web Archive](https://web.archive.org/web/20191227143749/https://www.f-secure.com/v-descs/bo2k.shtml)] 
+* [Back Orifice Windows Remote Administration Tool](http://www.cultdeadcow.com/tools/bo.html) [[Web Archive](https://web.archive.org/web/20060331074652/http://www.cultdeadcow.com/tools/bo.html)]
+* [MISP RAT Cluster](https://github.com/MISP/misp-galaxy/blob/master/clusters/rat.json) [[Web Archive](https://web.archive.org/web/20200518134647/https://github.com/MISP/misp-galaxy/blob/master/clusters/rat.json)] 
+* [Tracking the Back Orifice Trojan On a University Network](https://pen-testing.sans.org/resources/papers/gcih/tracking-orifice-trojan-university-network-101743) [[Web Archive](https://web.archive.org/web/20190608080456/https://pen-testing.sans.org/resources/papers/gcih/tracking-orifice-trojan-university-network-101743)]
+* [Symantec: Back Orifice](http://www.symantec.com/avcenter/warn/backorifice.html) [[Web Archive](https://web.archive.org/web/20190608080457/http://www.symantec.com/avcenter/warn/backorifice.html)] 
 
 ## Subseven
 ![First Seen](https://img.shields.io/badge/Year-1999-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange) ![Alias](https://img.shields.io/badge/Alias-Sub7-503040) ![Alias](https://img.shields.io/badge/Alias-Backdoor%20G-503040) ![Alias](https://img.shields.io/badge/Alias-Sub7Server-503040) 
@@ -51,7 +51,7 @@ This repository contains a curated list of papers, articles and other sources re
 
 - [2020 ObliqueRAT: New RAT hits victims' endpoints via malicious documents](https://blog.talosintelligence.com/2020/02/obliquerat-hits-victims-via-maldocs.html) [[Web Archive](https://web.archive.org/web/20200311091640/https://blog.talosintelligence.com/2020/02/obliquerat-hits-victims-via-maldocs.html)]
 - [2020 Transparent Tribe: Evolution analysis, part 2](https://securelist.com/transparent-tribe-part-2/98233/) [[Web Archive](https://web.archive.org/web/20201026064017/https://securelist.com/transparent-tribe-part-2/98233/)]
-- [South Asia APT organizes the "transparent tribe" to compete with opponents on mobile](https://www.secrss.com/articles/24995) [[Web Archive](https://web.archive.org/web/20201203173735/https://www.secrss.com/articles/24995]
+- [South Asia APT organizes the "transparent tribe" to compete with opponents on mobile](https://www.secrss.com/articles/24995) [[Web Archive](https://web.archive.org/web/20201203173735/https://www.secrss.com/articles/24995)]
 
 ## JhoneRAT
 
