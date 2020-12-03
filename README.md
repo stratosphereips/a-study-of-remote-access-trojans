@@ -52,3 +52,10 @@ This repository contains a curated list of papers, articles and other sources re
 - [2020 ObliqueRAT: New RAT hits victims' endpoints via malicious documents] (https://blog.talosintelligence.com/2020/02/obliquerat-hits-victims-via-maldocs.html) [[Web Archive](https://web.archive.org/web/20200311091640/https://blog.talosintelligence.com/2020/02/obliquerat-hits-victims-via-maldocs.html)]
 - [2020 Transparent Tribe: Evolution analysis, part 2] (https://securelist.com/transparent-tribe-part-2/98233/) [[Web Archive](https://web.archive.org/web/20201026064017/https://securelist.com/transparent-tribe-part-2/98233/)]
 - [South Asia APT organizes the "transparent tribe" to compete with opponents on mobile] (https://www.secrss.com/articles/24995) [[Web Archive](https://web.archive.org/web/20201203173735/https://www.secrss.com/articles/24995]
+
+## JhoneRAT
+
+![First Seen](https://img.shields.io/badge/Year-2019-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange)
+
+- [2020 JhoneRAT: Cloud based python RAT targeting Middle Eastern countries](https://blog.talosintelligence.com/2020/01/jhonerat.html) [[Web Archive](https://web.archive.org/web/20200411085247/https://blog.talosintelligence.com/2020/01/jhonerat.html)]
+- [2020 JhoneRat – a snake in the network](https://www.cyjax.com/2020/01/21/jhonerat-a-multi-stage-targeted-malware-infection/) [[Web Archive](https://web.archive.org/web/20200922080847/https://www.cyjax.com/2020/01/21/jhonerat-a-multi-stage-targeted-malware-infection/)]
