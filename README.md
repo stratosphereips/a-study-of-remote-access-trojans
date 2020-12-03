@@ -47,7 +47,7 @@ This repository contains a curated list of papers, articles and other sources re
 
 ## ObliqueRAT
 
-![First Seen](https://img.shields.io/badge/Year-2020-blue)
+![First Seen](https://img.shields.io/badge/Year-2020-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange)
 
 - [2020 ObliqueRAT: New RAT hits victims' endpoints via malicious documents] (https://blog.talosintelligence.com/2020/02/obliquerat-hits-victims-via-maldocs.html) [[Web Archive](https://web.archive.org/web/20200311091640/https://blog.talosintelligence.com/2020/02/obliquerat-hits-victims-via-maldocs.html)]
 - [2020 Transparent Tribe: Evolution analysis, part 2] (https://securelist.com/transparent-tribe-part-2/98233/) [[Web Archive](https://web.archive.org/web/20201026064017/https://securelist.com/transparent-tribe-part-2/98233/)]
