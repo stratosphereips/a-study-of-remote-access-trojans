@@ -47,6 +47,13 @@ This repository contains a curated list of papers, articles and other sources re
 
 - [Megasecurity: GirlFriend](http://www.megasecurity.org/trojans/g/girlfriend/GirlFriend1.3.html) [[Web Archive](https://web.archive.org/web/20081202092929/http://www.megasecurity.org/trojans/g/girlfriend/GirlFriend1.3.html)]
 
+## Grifin
+
+![First Seen](https://img.shields.io/badge/Year-1998-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange)
+
+- [Megasecurity: Grifin](http://www.megasecurity.org/trojans/g/grifin/Grifin.html) [[Web Archive](https://web.archive.org/web/20081202074225/http://www.megasecurity.org/trojans/g/grifin/Grifin.html)]
+
+
 ## Hawk
 
 ![First Seen](https://img.shields.io/badge/Year-2003-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange)
