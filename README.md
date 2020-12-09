@@ -104,6 +104,15 @@ This repository contains a curated list of papers, articles and other sources re
 
 - [Megasecurity: MRA Rat 1.0](http://www.megasecurity.org/trojans/m/mrarat/Mrarat1.0.html) [[Web Archive](https://web.archive.org/web/20030629041730/http://www.megasecurity.org/trojans/m/mrarat/Mrarat1.0.html)]
 
+## Net Devil
+
+![First Seen](https://img.shields.io/badge/Year-2002-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange)
+
+- [Cisco Security: Backdoor Net-Devil](https://tools.cisco.com/security/center/viewIpsSignature.x?signatureId=17877&signatureSubId=0) [[Web Archive](https://web.archive.org/web/20201209145340/https://tools.cisco.com/security/center/viewIpsSignature.x?signatureId=17877&signatureSubId=0)]
+- [PC-Freak: Net-Devil](https://www.pc-freak.net/tutorials/hacking_info/trojans_info/tr_data/y2267.html) [[Web Archive](https://web.archive.org/web/20201209150028/https://www.pc-freak.net/tutorials/hacking_info/trojans_info/tr_data/y2267.html)]
+- [2002 Symantec: Backdoor.NetDevil](https://www.symantec.com/security_response//writeup.jsp?docid=2002-021310-3452-99) [[Web Archive](https://web.archive.org/web/20151023003009/https://www.symantec.com/security_response//writeup.jsp?docid=2002-021310-3452-99)]
+- [2004 OPTIXPRO 1.31 and NETDEVIL1.5 TROJAN BACKDOOR EXPOLIT](https://www.giac.org/paper/gcih/560/optixpro-131-netdevil15-trojan-backdoor-expolits/105977) [[Web Archive](https://web.archive.org/web/20201209150439/https://www.giac.org/paper/gcih/560/optixpro-131-netdevil15-trojan-backdoor-expolits/105977)]
+
 ## Socket23
 
 ![First Seen](https://img.shields.io/badge/Year-1998-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange) ![Alias](https://img.shields.io/badge/Alias-Sockets%20de%20Troie-503040) 
