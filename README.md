@@ -48,6 +48,13 @@ This repository contains a curated list of papers, articles and other sources re
 - [Megasecurity: Hawk 1.1](http://www.megasecurity.org/trojans/h/hawk/Hawk1.1.html) [[Web Archive](https://web.archive.org/web/20081203112724/http://www.megasecurity.org/trojans/h/hawk/Hawk1.1.html)] 
 - [Megasecurity: Hawk all versions](http://www.megasecurity.org/trojans/h/hawk/Hawk_all.html) [[Web Archive](https://web.archive.org/web/20081203133452/http://www.megasecurity.org/trojans/h/hawk/Hawk_all.html)] 
 
+## HawkEye
+
+![First Seen](https://img.shields.io/badge/Year-2014-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange) ![Alias](https://img.shields.io/badge/Alias-Hawkeye%20Reborn%20v9-503040) ![Alias](https://img.shields.io/badge/Alias-iSpy-503040) 
+
+- [2016 iSpy Keylogger](https://www.zscaler.com/blogs/security-research/ispy-keylogger) [[Web Archive](https://web.archive.org/web/20201209125904/https://www.zscaler.com/blogs/security-research/ispy-keylogger)]
+- [2018 LastLine: The Latest 100 Threats Seen in Finance](https://go.lastline.com/rs/373-AVL-445/images/MalscapeSnapshot_Finance.pdf) [[Web Archive](https://web.archive.org/web/20201209125725/https://go.lastline.com/rs/373-AVL-445/images/MalscapeSnapshot_Finance.pdf)]
+- [2019 HAWKEYE Remote Access Trojan](https://digital.nhs.uk/cyber-alerts/2019/cc-2958) [[Web Archive](https://web.archive.org/web/20201209125225/https://digital.nhs.uk/cyber-alerts/2019/cc-2958)]
 
 ## JadeRAT
 
