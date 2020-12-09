@@ -2,6 +2,14 @@
 
 This repository contains a curated list of papers, articles and other sources related to remote access trojans. Entries are sorted alphabetically. For corrections, suggestions, or missing papers, please either open an issue or submit a pull request. 
 
+## A4zeta
+
+![First Seen](https://img.shields.io/badge/Year-2002-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange) ![Server Source Code](https://img.shields.io/badge/Server-delphi-yellow)
+
+- [Megasecurity: A4zeta all](http://www.megasecurity.org/trojans/a/a4zeta/A4zeta_all.html) [[Web Archive](https://web.archive.org/web/20021113014408/http://www.megasecurity.org/trojans/a/a4zeta/A4zeta_all.html)]
+- [Megasecurity: A4zeta beta1](http://www.megasecurity.org/trojans/a/a4zeta/A4zeta_b1.html) [[Web Archive](https://web.archive.org/web/20021105231644/http://www.megasecurity.org/trojans/a/a4zeta/A4zeta_b1.html)]
+- [Megasecurity: A4zeta beta2](http://www.megasecurity.org/trojans/a/a4zeta/A4zeta_b2.html) [[Web Archive](https://web.archive.org/web/20021105232028/http://www.megasecurity.org/trojans/a/a4zeta/A4zeta_b2.html)]
+
 ## Atelier Web Remote Commander
 
 ![First Seen](https://img.shields.io/badge/Year-2001-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange) ![Alias](https://img.shields.io/badge/Alias-AWRC-503040) 
