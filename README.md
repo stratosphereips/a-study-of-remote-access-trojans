@@ -40,6 +40,12 @@ This repository contains a curated list of papers, articles and other sources re
 * [BIFROSE Now More Evasive Through Tor, Used for Targeted Attack](https://blog.trendmicro.com/trendlabs-security-intelligence/bifrose-now-more-evasive-through-tor-used-for-targeted-attack/) [[Web Archive](https://web.archive.org/web/20190807233120/https://blog.trendmicro.com/trendlabs-security-intelligence/bifrose-now-more-evasive-through-tor-used-for-targeted-attack/)] 
 * [The Malicious Intent of the “Here You Have” Mail Worm, Part 2](http://blog.trendmicro.com/trendlabs-security-intelligence/the-malicious-intent-of-the-here-you-have-mail-worm-part-2/) [[Web Archive](https://web.archive.org/web/20160611083959/http://blog.trendmicro.com/trendlabs-security-intelligence/the-malicious-intent-of-the-here-you-have-mail-worm-part-2/)] 
 
+## Casper
+
+![First Seen](https://img.shields.io/badge/Year-2006-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange) ![Client Source Code](https://img.shields.io/badge/Client-Visual%20Basic-yellow) ![Server Source Code](https://img.shields.io/badge/Server-Visual%20Basic-yellow)
+
+- [Megasecurity: Casper RAT Demo](http://www.megasecurity.org/trojans/c/casper/Casperrat.html) [[Web Archive](https://web.archive.org/web/20111019084501/http://www.megasecurity.org/trojans/c/casper/Casperrat.html)]
+
 ## CyberGate RAT
 
 ![First Seen](https://img.shields.io/badge/Year-2011-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange) ![Client Source Code](https://img.shields.io/badge/Client-delphi-yellow) ![Server Source Code](https://img.shields.io/badge/Server-C++-yellow)
