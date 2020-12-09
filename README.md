@@ -146,6 +146,14 @@ This repository contains a curated list of papers, articles and other sources re
 - [1999 Virus Bulletin Magazine](https://www.virusbulletin.com/uploads/pdf/magazine/1999/199908.pdf) [[Web Archive](https://web.archive.org/web/20201209102758/https://www.virusbulletin.com/uploads/pdf/magazine/1999/199908.pdf)]
 - [2013 YouTube: Démonstration de Socket23](https://www.youtube.com/watch?v=tHqD2SKJJ4w) [[Web Archive](https://web.archive.org/web/20201209103117/https://www.youtube.com/watch?v=tHqD2SKJJ4w)]
 
+## Sparta RAT
+
+![First Seen](https://img.shields.io/badge/Year-2002-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange) ![Client Source Code](https://img.shields.io/badge/Client-delphi-yellow) ![Server Source Code](https://img.shields.io/badge/Server-delphi-yellow)
+
+- [Megasecurity: Sparta 1.1 (a)](http://www.megasecurity.org/trojans/s/sparta/Sparta1.1a.html) [[Web Archive](https://web.archive.org/web/20030505194127/http://www.megasecurity.org/trojans/s/sparta/Sparta1.1a.html)]
+- [Megasecurity: Sparta 1.1 (b1) client](http://www.megasecurity.org/trojans/s/sparta/Sparta1.1b1_client.html) [[Web Archive](https://web.archive.org/web/20030502021332/http://www.megasecurity.org/trojans/s/sparta/Sparta1.1b1_client.html)]
+- [Megasecurity: Sparta all](http://www.megasecurity.org/trojans/s/sparta/Sparta_all.html) [[Web Archive](https://web.archive.org/web/20030502025607/http://www.megasecurity.org/trojans/s/sparta/Sparta_all.html)]
+
 ## Subseven
 
 ![First Seen](https://img.shields.io/badge/Year-1999-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange) ![Alias](https://img.shields.io/badge/Alias-Sub7-503040) ![Alias](https://img.shields.io/badge/Alias-Backdoor%20G-503040) ![Alias](https://img.shields.io/badge/Alias-Sub7Server-503040) 
