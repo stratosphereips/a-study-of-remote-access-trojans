@@ -64,3 +64,13 @@ This repository contains a curated list of papers, articles and other sources re
 - [2020 ObliqueRAT: New RAT hits victims' endpoints via malicious documents](https://blog.talosintelligence.com/2020/02/obliquerat-hits-victims-via-maldocs.html) [[Web Archive](https://web.archive.org/web/20200311091640/https://blog.talosintelligence.com/2020/02/obliquerat-hits-victims-via-maldocs.html)]
 - [2020 Transparent Tribe: Evolution analysis, part 2](https://securelist.com/transparent-tribe-part-2/98233/) [[Web Archive](https://web.archive.org/web/20201026064017/https://securelist.com/transparent-tribe-part-2/98233/)]
 - [South Asia APT organizes the "transparent tribe" to compete with opponents on mobile](https://www.secrss.com/articles/24995) [[Web Archive](https://web.archive.org/web/20201203173735/https://www.secrss.com/articles/24995)]
+
+## Poison Ivy
+
+![First Seen](https://img.shields.io/badge/Year-2005-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange) ![Alias](https://img.shields.io/badge/Alias-Darkmoon-503040)
+
+- [2008 Poison Ivy Remote Administration Tool Homepage](www.poisonivy-rat.com) [[Web Archive](https://web.archive.org/web/20080901081727/http://www.poisonivy-rat.com/)]
+- [2014 Cisco Talos: Threat Spotlight: Group 72](http://blogs.cisco.com/security/talos/threat-spotlight-group-72) [[Web Archive](https://web.archive.org/web/20190819114216/https://blogs.cisco.com/security/talos/threat-spotlight-group-72)]
+- [2014 FireEye: POISON IVY: Assessing Damage and Extracting Intelligence](https://www.fireeye.com/content/dam/fireeye-www/global/en/current-threats/pdfs/rpt-poison-ivy.pdf) [[Web Archive](https://web.archive.org/web/20200511231612/https://www.fireeye.com/content/dam/fireeye-www/global/en/current-threats/pdfs/rpt-poison-ivy.pdf)]
+- [2016 Operation DustySky - Part 2](https://www.clearskysec.com/wp-content/uploads/2016/06/Operation-DustySky2_-6.2016_TLP_White.pdf) [[Web Archive](https://web.archive.org/web/20201001195808/https://www.clearskysec.com/wp-content/uploads/2016/06/Operation-DustySky2_-6.2016_TLP_White.pdf)]
+- [F-Secure: Backdoor:W32/PoisonIvy](https://www.f-secure.com/v-descs/backdoor_w32_poisonivy.shtml) [[Web Archive](https://web.archive.org/web/20190908094326/https://www.f-secure.com/v-descs/backdoor_w32_poisonivy.shtml)] 
