@@ -177,3 +177,14 @@ This repository contains a curated list of papers, articles and other sources re
 - [2014 FireEye: POISON IVY: Assessing Damage and Extracting Intelligence](https://www.fireeye.com/content/dam/fireeye-www/global/en/current-threats/pdfs/rpt-poison-ivy.pdf) [[Web Archive](https://web.archive.org/web/20200511231612/https://www.fireeye.com/content/dam/fireeye-www/global/en/current-threats/pdfs/rpt-poison-ivy.pdf)]
 - [2016 Operation DustySky - Part 2](https://www.clearskysec.com/wp-content/uploads/2016/06/Operation-DustySky2_-6.2016_TLP_White.pdf) [[Web Archive](https://web.archive.org/web/20201001195808/https://www.clearskysec.com/wp-content/uploads/2016/06/Operation-DustySky2_-6.2016_TLP_White.pdf)]
 - [F-Secure: Backdoor:W32/PoisonIvy](https://www.f-secure.com/v-descs/backdoor_w32_poisonivy.shtml) [[Web Archive](https://web.archive.org/web/20190908094326/https://www.f-secure.com/v-descs/backdoor_w32_poisonivy.shtml)] 
+
+## ProRAT
+
+![First Seen](https://img.shields.io/badge/Year-2002-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange) 
+
+- [Megasecurity: ProRat 1.0b](http://www.megasecurity.org/trojans/p/prorat/Prorat1.0b.html) [[Web Archive](https://web.archive.org/web/20030710020430/http://www.megasecurity.org/trojans/p/prorat/Prorat1.0b.html)]
+- [An Introduction To Keyloggers, RATS And Malware](http://index-of.es/EBooks/An%20Introduction%20To%20Keylogger,%20RATS%20And%20Malware.pdf) [[Web Archive](https://web.archive.org/web/20201209152933/http://index-of.es/EBooks/An%20Introduction%20To%20Keylogger,%20RATS%20And%20Malware.pdf)]
+- [2012 [Tutorial] ProRat V1.9 SETUP, Its guide,port forwarding & FAQs [Q&A]](https://coolhackerboy.wordpress.com/2012/03/13/tutorial-prorat-v1-9-setup-its-guideport-forwarding-faqs-qa/) [[Web Archive](https://web.archive.org/web/20201209152458/https://coolhackerboy.wordpress.com/2012/03/13/tutorial-prorat-v1-9-setup-its-guideport-forwarding-faqs-qa/)]
+- [2014 HACK A SYSTEM USING RAT’S](https://ultimate1337.wordpress.com/tag/prorat/) [[Web Archive](https://web.archive.org/web/20201209152631/https://ultimate1337.wordpress.com/tag/prorat/)]
+- [2015 New RATs Emerge from Leaked Njw0rm Source Code ](http://blog.trendmicro.com/trendlabs-security-intelligence/new-rats-emerge-from-leaked-njw0rm-source-code/) [[Web Archive](https://www.trendmicro.com/en_us/research/15/a/new-rats-emerge-from-leaked-njw0rm-source-code.html)]
+- [2020 Carders: ProRat ~Best and Free Remote Administration Tools~Backdoor Trojan Horse](https://carders.ws/threads/prorat-best-and-free-remote-administration-tools-backdoor-trojan-horse.2474/) [[Web Archive](https://web.archive.org/web/20201209152819/https://carders.ws/threads/prorat-best-and-free-remote-administration-tools-backdoor-trojan-horse.2474/)]
