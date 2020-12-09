@@ -288,3 +288,10 @@ This repository contains a curated list of papers, articles and other sources re
 ![First Seen](https://img.shields.io/badge/Year-2003-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange)
 
 - [Vigilix Homepage](https://vigilix.com) [[Web Archive](https://web.archive.org/web/20030904035527/http://www.vigilix.com/)]
+
+## xHacker RAT
+
+![First Seen](https://img.shields.io/badge/Year-2007-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange)
+
+- [2007 Romanian Security Team Forum: xHacker 3.0 PRO Leaked!](https://rstforums.com/forum/topic/7347-xhacker-30-pro-leaked/) [[Web Archive](https://web.archive.org/web/20201209220530/https://rstforums.com/forum/topic/7347-xhacker-30-pro-leaked/)]
+- [2016 Quora: How can I build a RAT (Remote Access Trojan) from scratch? For educational purposes only](https://www.quora.com/How-can-I-build-a-RAT-Remote-Access-Trojan-from-scratch-For-educational-purposes-only)
