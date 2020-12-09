@@ -99,6 +99,12 @@ This repository contains a curated list of papers, articles and other sources re
 - [2020 JhoneRAT: Cloud based python RAT targeting Middle Eastern countries](https://blog.talosintelligence.com/2020/01/jhonerat.html) [[Web Archive](https://web.archive.org/web/20200411085247/https://blog.talosintelligence.com/2020/01/jhonerat.html)]
 - [2020 JhoneRat – a snake in the network](https://www.cyjax.com/2020/01/21/jhonerat-a-multi-stage-targeted-malware-infection/) [[Web Archive](https://web.archive.org/web/20200922080847/https://www.cyjax.com/2020/01/21/jhonerat-a-multi-stage-targeted-malware-infection/)]
 
+## LokiTech
+
+![First Seen](https://img.shields.io/badge/Year-2003-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange) ![Client Source Code](https://img.shields.io/badge/Client-Visual%20Basic-yellow) ![Server Source Code](https://img.shields.io/badge/Server-Visual%20Basic-yellow)
+
+- [Megasecurity: Lokitech 1.0](http://www.megasecurity.org/trojans/l/lokitech/Lokitech1.0.html) [[Web Archive](https://web.archive.org/web/20081122115641/http://www.megasecurity.org/trojans/l/lokitech/Lokitech1.0.html)]
+
 ## MadRAT
 
 ![First Seen](https://img.shields.io/badge/Year-2003-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange) ![Client Source Code](https://img.shields.io/badge/Client-Visual%20Basic-yellow) ![Server Source Code](https://img.shields.io/badge/Server-Visual%20Basic-yellow)
