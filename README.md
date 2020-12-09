@@ -30,6 +30,16 @@ This repository contains a curated list of papers, articles and other sources re
 * [Tracking the Back Orifice Trojan On a University Network](https://pen-testing.sans.org/resources/papers/gcih/tracking-orifice-trojan-university-network-101743) [[Web Archive](https://web.archive.org/web/20190608080456/https://pen-testing.sans.org/resources/papers/gcih/tracking-orifice-trojan-university-network-101743)]
 * [Symantec: Back Orifice](http://www.symantec.com/avcenter/warn/backorifice.html) [[Web Archive](https://web.archive.org/web/20190608080457/http://www.symantec.com/avcenter/warn/backorifice.html)] 
 
+## BbsRAT
+
+![First Seen](https://img.shields.io/badge/Year-2014-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange)
+
+- [Mitre: BBSRAT](https://attack.mitre.org/wiki/Software/S0127) [[Web Archive](https://web.archive.org/web/20200422204307/https://attack.mitre.org/software/S0127/)]
+- [2015 BBSRAT Attacks Targeting Russian Organizations Linked to Roaming Tiger](http://researchcenter.paloaltonetworks.com/2015/12/bbsrat-attacks-targeting-russian-organizations-linked-to-roaming-tiger/) [[Web Archive](https://web.archive.org/web/20200814205356/https://unit42.paloaltonetworks.com/bbsrat-attacks-targeting-russian-organizations-linked-to-roaming-tiger/)]
+- [2020 How to perform long term monitoring of careless threat actors](https://www.sstic.org/media/SSTIC2020/SSTIC-actes/pivoter_tel_bernard_ou_comment_monitorer_des_attaq/SSTIC2020-Slides-pivoter_tel_bernard_ou_comment_monitorer_des_attaquants_ngligents-lunghi.pdf) [[Web Archive](https://web.archive.org/web/20200609032838/https://www.sstic.org/media/SSTIC2020/SSTIC-actes/pivoter_tel_bernard_ou_comment_monitorer_des_attaq/SSTIC2020-Slides-pivoter_tel_bernard_ou_comment_monitorer_des_attaquants_ngligents-lunghi.pdf)]
+- [2020 Shadows in the Rain](https://medium.com/insomniacs/shadows-in-the-rain-a16efaf21aae) [[Web Archive](https://web.archive.org/web/20201209183319/https://medium.com/insomniacs/shadows-in-the-rain-a16efaf21aae)]
+
+
 ## Bifrost
 
 ![First Seen](https://img.shields.io/badge/Year-2004-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange) ![Alias](https://img.shields.io/badge/Alias-Bifrose-503040) 
