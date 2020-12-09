@@ -53,6 +53,15 @@ This repository contains a curated list of papers, articles and other sources re
 - [Megasecurity: Casus 2.0](http://www.megasecurity.org/trojans/c/casus/Casus2.0.html) [[Web Archive](https://web.archive.org/web/20020812134444/http://www.megasecurity.org/trojans/c/casus/Casus2.0.html)]
 - [Megasecurity: Casus 2.3](http://www.megasecurity.org/trojans/c/casus/Casus2.3.html) [[Web Archive](https://web.archive.org/web/20020812134159/http://www.megasecurity.org/trojans/c/casus/Casus2.3.html)]
 
+## ComRAT
+
+![First Seen](https://img.shields.io/badge/Year-2007-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange) ![Alias](https://img.shields.io/badge/Alias-Agent.BTZ-503040) ![Alias](https://img.shields.io/badge/Alias-Chinch-503040)
+
+- [2014 The Uroburos case: new sophisticated RAT identified](https://www.gdatasoftware.com/blog/2014/11/23937-the-uroburos-case-new-sophisticated-rat-identified) [[Web Archive](https://web.archive.org/web/20201119194252/https://www.gdatasoftware.com/blog/2014/11/23937-the-uroburos-case-new-sophisticated-rat-identified)]
+- [2015 Tools used by the Uroburos actors](https://docplayer.net/101655589-Tools-used-by-the-uroburos-actors.html) [[Web Archive](https://web.archive.org/web/20201209182204/https://docplayer.net/101655589-Tools-used-by-the-uroburos-actors.html)]
+- [2020 From Agent.BTZ to ComRAT v4: A ten‑year journey](https://www.welivesecurity.com/2020/05/26/agentbtz-comratv4-ten-year-journey/) [[Web Archive](https://web.archive.org/web/20200526112123/https://www.welivesecurity.com/2020/05/26/agentbtz-comratv4-ten-year-journey/)] 
+
+
 ## CyberGate RAT
 
 ![First Seen](https://img.shields.io/badge/Year-2011-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange) ![Client Source Code](https://img.shields.io/badge/Client-delphi-yellow) ![Server Source Code](https://img.shields.io/badge/Server-C++-yellow)
