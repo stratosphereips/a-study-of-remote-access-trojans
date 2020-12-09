@@ -56,3 +56,9 @@ This repository contains a curated list of papers, articles and other sources re
 
 - [2020 JhoneRAT: Cloud based python RAT targeting Middle Eastern countries](https://blog.talosintelligence.com/2020/01/jhonerat.html) [[Web Archive](https://web.archive.org/web/20200411085247/https://blog.talosintelligence.com/2020/01/jhonerat.html)]
 - [2020 JhoneRat – a snake in the network](https://www.cyjax.com/2020/01/21/jhonerat-a-multi-stage-targeted-malware-infection/) [[Web Archive](https://web.archive.org/web/20200922080847/https://www.cyjax.com/2020/01/21/jhonerat-a-multi-stage-targeted-malware-infection/)]
+
+## Socket23
+![First Seen](https://img.shields.io/badge/Year-1998-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange) ![Alias](https://img.shields.io/badge/Alias-Sockets%20de%20Troie-503040) 
+
+- [1999 Virus Bulletin Magazine](https://www.virusbulletin.com/uploads/pdf/magazine/1999/199908.pdf) [[Web Archive](https://web.archive.org/web/20201209102758/https://www.virusbulletin.com/uploads/pdf/magazine/1999/199908.pdf)]
+- [2013 YouTube: Démonstration de Socket23](https://www.youtube.com/watch?v=tHqD2SKJJ4w) [[Web Archive](https://web.archive.org/web/20201209103117/https://www.youtube.com/watch?v=tHqD2SKJJ4w)]
