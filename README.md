@@ -130,6 +130,13 @@ This repository contains a curated list of papers, articles and other sources re
 - [2020 Transparent Tribe: Evolution analysis, part 2](https://securelist.com/transparent-tribe-part-2/98233/) [[Web Archive](https://web.archive.org/web/20201026064017/https://securelist.com/transparent-tribe-part-2/98233/)]
 - [South Asia APT organizes the "transparent tribe" to compete with opponents on mobile](https://www.secrss.com/articles/24995) [[Web Archive](https://web.archive.org/web/20201203173735/https://www.secrss.com/articles/24995)]
 
+## Pandora
+
+![First Seen](https://img.shields.io/badge/Year-2002-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange)
+
+- [Megasecurity: Pandora1.1](http://www.megasecurity.org/trojans/p/pandora/Pandora1.1.html) [[Web Archive](https://web.archive.org/web/20080906164023/http://www.megasecurity.org/trojans/p/pandora/Pandora1.1.html)]
+
+
 ## Poison Ivy
 
 ![First Seen](https://img.shields.io/badge/Year-2005-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange) ![Alias](https://img.shields.io/badge/Alias-Darkmoon-503040)
