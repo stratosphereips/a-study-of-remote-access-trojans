@@ -274,6 +274,15 @@ This repository contains a curated list of papers, articles and other sources re
 - [Megasecurity: Toquito Bandito 1.0](http://www.megasecurity.org/trojans/t/toquitobandito/Toquitobandito1.0.html) [[Web Archive](https://web.archive.org/web/20050328210450/http://www.megasecurity.org/trojans/t/toquitobandito/Toquitobandito1.0.html)]
 - [Megasecurity: Toquitobadito All](https://www.megasecurity.org/trojans/t/toquitobandito/Toquitobandito_all.html) [[Web Archive](https://web.archive.org/web/20161014124932/http://www.megasecurity.org/trojans/t/toquitobandito/Toquitobandito_all.html)]
 
+## Turkojan
+
+![First Seen](https://img.shields.io/badge/Year-2003-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange)
+
+- [TURKOJAN Homepage](https://turkojan.blogspot.com) [[Web Archive](https://web.archive.org/web/20200205124625/http://turkojan.blogspot.com/)]
+- [2003 Symantec: Backdoor.Turkojan](https://www.symantec.com/security_response/writeup.jsp?docid=2003-032816-3726-99) [[Web Archive](https://web.archive.org/web/20151022185740/https://www.symantec.com/security_response//writeup.jsp?docid=2003-032816-3726-99)]
+- [2016 Turkish Journalist Jailed for Terrorism Was Framed, Forensics Report Shows](https://www.vice.com/en/article/nz74wq/turkish-journalist-jailed-for-terrorism-was-framed-forensic-report-shows-1) [[Web Archive](https://web.archive.org/web/20201108171720/https://www.vice.com/en/article/nz74wq/turkish-journalist-jailed-for-terrorism-was-framed-forensic-report-shows-1)]
+
+
 ## Vigilix
 
 ![First Seen](https://img.shields.io/badge/Year-2003-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange)
