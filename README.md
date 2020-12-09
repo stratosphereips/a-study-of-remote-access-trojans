@@ -178,6 +178,14 @@ This repository contains a curated list of papers, articles and other sources re
 * [Deconstructing SubSeven, the Trojan Horse of Choice]( https://www.sans.org/reading-room/whitepapers/malicious/deconstructing-subseven-the-trojan-horse-of-choice-953) [[Web Archive](https://web.archive.org/web/20140202135110/http://www.sans.org/reading-room/whitepapers/malicious/deconstructing-subseven-the-trojan-horse-of-choice-953)] 
 * [Sub Seven: A Risk to Your Internet Security](https://pen-testing.sans.org/resources/papers/gcih/seven-risk-internet-security-102981) [[Web Archive](https://web.archive.org/web/20150922142519/http://pen-testing.sans.org/resources/papers/gcih/seven-risk-internet-security-102981)] 
 
+## Tapaoux
+
+![First Seen](https://img.shields.io/badge/Year-2007-blue)
+
+- [2014 Kaspersky: THE DARKHOTEL APT A STORY OF UNUSUAL HOSPITALITY](https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/08070903/darkhotel_kl_07.11.pdf) [[Web Archive](https://web.archive.org/web/20200513200629/https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/08070903/darkhotel_kl_07.11.pdf)] 
+- [2016 DarkHotel: Give Us All Your Data and Enjoy Your Stay](http://www.informationsecuritybuzz.com/articles/darkhotel-give-us-data-enjoy-stay/)
+[[Web Archive](https://web.archive.org/web/20191006125252/https://www.informationsecuritybuzz.com/articles/darkhotel-give-us-data-enjoy-stay/)] 
+
 ## Tequila Bandita
 
 ![First Seen](https://img.shields.io/badge/Year-2004-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange) ![Client Source Code](https://img.shields.io/badge/Client-delphi-yellow) ![Server Source Code](https://img.shields.io/badge/Server-delphi-yellow)
