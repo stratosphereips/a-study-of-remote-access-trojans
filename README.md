@@ -56,6 +56,13 @@ This repository contains a curated list of papers, articles and other sources re
 - [2018 LastLine: The Latest 100 Threats Seen in Finance](https://go.lastline.com/rs/373-AVL-445/images/MalscapeSnapshot_Finance.pdf) [[Web Archive](https://web.archive.org/web/20201209125725/https://go.lastline.com/rs/373-AVL-445/images/MalscapeSnapshot_Finance.pdf)]
 - [2019 HAWKEYE Remote Access Trojan](https://digital.nhs.uk/cyber-alerts/2019/cc-2958) [[Web Archive](https://web.archive.org/web/20201209125225/https://digital.nhs.uk/cyber-alerts/2019/cc-2958)]
 
+## hsidir
+
+![First Seen](https://img.shields.io/badge/Year-2006-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange)
+
+- [2015 Nulled: Win32.HsIdir [ RAT ]](https://www.nulled.to/topic/129749-win32hsidir-rat/) [[Web Archive](https://web.archive.org/web/20200518123727/https://www.nulled.to/topic/129749-win32hsidir-rat/)] 
+
+
 ## JadeRAT
 
 ![First Seen](https://img.shields.io/badge/Year-2015-blue) ![Targets](https://img.shields.io/badge/Targets-Android-orange)
