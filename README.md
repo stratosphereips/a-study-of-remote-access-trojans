@@ -110,6 +110,12 @@ This repository contains a curated list of papers, articles and other sources re
 - [Megasecurity: tequila bandita 1.2 beta 1](http://www.megasecurity.org/trojans/t/toquitobandito/Tequilabandita1.2.html) [[Web Archive](https://web.archive.org/web/20161012200205/http://www.megasecurity.org/trojans/t/toquitobandito/Tequilabandita1.2.html)]
 - [Megasecurity: Toquitobadito All](https://www.megasecurity.org/trojans/t/toquitobandito/Toquitobandito_all.html) [[Web Archive](https://web.archive.org/web/20161014124932/http://www.megasecurity.org/trojans/t/toquitobandito/Toquitobandito_all.html)]
 
+## Toquito Bandito
+
+![First Seen](https://img.shields.io/badge/Year-2004-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange) ![Client Source Code](https://img.shields.io/badge/Client-delphi-yellow) ![Server Source Code](https://img.shields.io/badge/Server-delphi-yellow)
+
+- [Megasecurity: Toquito Bandito 1.0](http://www.megasecurity.org/trojans/t/toquitobandito/Toquitobandito1.0.html) [[Web Archive](https://web.archive.org/web/20050328210450/http://www.megasecurity.org/trojans/t/toquitobandito/Toquitobandito1.0.html)]
+- [Megasecurity: Toquitobadito All](https://www.megasecurity.org/trojans/t/toquitobandito/Toquitobandito_all.html) [[Web Archive](https://web.archive.org/web/20161014124932/http://www.megasecurity.org/trojans/t/toquitobandito/Toquitobandito_all.html)]
 
 ## ObliqueRAT
 
