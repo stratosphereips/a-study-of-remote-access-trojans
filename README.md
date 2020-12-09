@@ -188,3 +188,9 @@ This repository contains a curated list of papers, articles and other sources re
 - [2014 HACK A SYSTEM USING RAT’S](https://ultimate1337.wordpress.com/tag/prorat/) [[Web Archive](https://web.archive.org/web/20201209152631/https://ultimate1337.wordpress.com/tag/prorat/)]
 - [2015 New RATs Emerge from Leaked Njw0rm Source Code ](http://blog.trendmicro.com/trendlabs-security-intelligence/new-rats-emerge-from-leaked-njw0rm-source-code/) [[Web Archive](https://www.trendmicro.com/en_us/research/15/a/new-rats-emerge-from-leaked-njw0rm-source-code.html)]
 - [2020 Carders: ProRat ~Best and Free Remote Administration Tools~Backdoor Trojan Horse](https://carders.ws/threads/prorat-best-and-free-remote-administration-tools-backdoor-trojan-horse.2474/) [[Web Archive](https://web.archive.org/web/20201209152819/https://carders.ws/threads/prorat-best-and-free-remote-administration-tools-backdoor-trojan-horse.2474/)]
+
+## Vigilix
+
+![First Seen](https://img.shields.io/badge/Year-2003-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange)
+
+- [Vigilix Homepage](https://vigilix.com) [[Web Archive](https://web.archive.org/web/20030904035527/http://www.vigilix.com/)]
