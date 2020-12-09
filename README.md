@@ -41,6 +41,14 @@ This repository contains a curated list of papers, articles and other sources re
 - [2013 CyberGate RAT COMPLETE TUTORIAL](https://atjeh-vb6.blogspot.com/2013/05/cybergate-rat-complete-tutorial.html) [[Web Archive](https://web.archive.org/web/20201008135258/https://atjeh-vb6.blogspot.com/2013/05/cybergate-rat-complete-tutorial.html)]
 - [2014 CyberGate: En febrero nuestra aerolínea te obsequia...](http://oberheimdmx.blogspot.nl/2014/01/cybergate-en-febrero-nuestra-obsequia.html) [[Web Archive](https://web.archive.org/web/20201008135727/http://oberheimdmx.blogspot.com/2014/01/cybergate-en-febrero-nuestra-obsequia.html)] 
 
+## JadeRAT
+
+![First Seen](https://img.shields.io/badge/Year-2015-blue) ![Targets](https://img.shields.io/badge/Targets-Android-orange)
+
+- [2017 JadeRAT mobile surveillanceware spikes in espionage activity](https://blog.lookout.com/mobile-threat-jaderat) [[Web Archive](https://web.archive.org/web/20171030060416/https://blog.lookout.com/mobile-threat-jaderat)] 
+- [2017 Lookout Mobile Threat Report](https://info.lookout.com/rs/051-ESQ-475/images/Lookout-MTR-Q3-2017-11212017-US.pdf) [[Web Archive](https://web.archive.org/web/20201209124146/https://info.lookout.com/rs/051-ESQ-475/images/Lookout-MTR-Q3-2017-11212017-US.pdf)]
+- [2017 Hackers linked to Chinese government used mobile malware to spy on ethnic minority](https://www.cyberscoop.com/lookout-china-scarlet-mimic-jaderat/) [[Web Archive](https://web.archive.org/web/20201016024313/https://www.cyberscoop.com/lookout-china-scarlet-mimic-jaderat/)] 
+
 ## JhoneRAT
 
 ![First Seen](https://img.shields.io/badge/Year-2019-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange)
