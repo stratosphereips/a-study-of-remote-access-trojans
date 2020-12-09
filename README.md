@@ -41,6 +41,14 @@ This repository contains a curated list of papers, articles and other sources re
 - [2013 CyberGate RAT COMPLETE TUTORIAL](https://atjeh-vb6.blogspot.com/2013/05/cybergate-rat-complete-tutorial.html) [[Web Archive](https://web.archive.org/web/20201008135258/https://atjeh-vb6.blogspot.com/2013/05/cybergate-rat-complete-tutorial.html)]
 - [2014 CyberGate: En febrero nuestra aerolínea te obsequia...](http://oberheimdmx.blogspot.nl/2014/01/cybergate-en-febrero-nuestra-obsequia.html) [[Web Archive](https://web.archive.org/web/20201008135727/http://oberheimdmx.blogspot.com/2014/01/cybergate-en-febrero-nuestra-obsequia.html)] 
 
+## Hawk
+
+![First Seen](https://img.shields.io/badge/Year-2003-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange)
+
+- [Megasecurity: Hawk 1.1](http://www.megasecurity.org/trojans/h/hawk/Hawk1.1.html) [[Web Archive](https://web.archive.org/web/20081203112724/http://www.megasecurity.org/trojans/h/hawk/Hawk1.1.html)] 
+- [Megasecurity: Hawk all versions](http://www.megasecurity.org/trojans/h/hawk/Hawk_all.html) [[Web Archive](https://web.archive.org/web/20081203133452/http://www.megasecurity.org/trojans/h/hawk/Hawk_all.html)] 
+
+
 ## JadeRAT
 
 ![First Seen](https://img.shields.io/badge/Year-2015-blue) ![Targets](https://img.shields.io/badge/Targets-Android-orange)
