@@ -41,6 +41,12 @@ This repository contains a curated list of papers, articles and other sources re
 - [2013 CyberGate RAT COMPLETE TUTORIAL](https://atjeh-vb6.blogspot.com/2013/05/cybergate-rat-complete-tutorial.html) [[Web Archive](https://web.archive.org/web/20201008135258/https://atjeh-vb6.blogspot.com/2013/05/cybergate-rat-complete-tutorial.html)]
 - [2014 CyberGate: En febrero nuestra aerolínea te obsequia...](http://oberheimdmx.blogspot.nl/2014/01/cybergate-en-febrero-nuestra-obsequia.html) [[Web Archive](https://web.archive.org/web/20201008135727/http://oberheimdmx.blogspot.com/2014/01/cybergate-en-febrero-nuestra-obsequia.html)] 
 
+## Girlfriend
+
+![First Seen](https://img.shields.io/badge/Year-1998-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange)
+
+- [Megasecurity: GirlFriend](http://www.megasecurity.org/trojans/g/girlfriend/GirlFriend1.3.html) [[Web Archive](https://web.archive.org/web/20081202092929/http://www.megasecurity.org/trojans/g/girlfriend/GirlFriend1.3.html)]
+
 ## Hawk
 
 ![First Seen](https://img.shields.io/badge/Year-2003-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange)
