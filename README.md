@@ -46,6 +46,13 @@ This repository contains a curated list of papers, articles and other sources re
 
 - [Megasecurity: Casper RAT Demo](http://www.megasecurity.org/trojans/c/casper/Casperrat.html) [[Web Archive](https://web.archive.org/web/20111019084501/http://www.megasecurity.org/trojans/c/casper/Casperrat.html)]
 
+## CasuS
+
+![First Seen](https://img.shields.io/badge/Year-1998-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange) 
+
+- [Megasecurity: Casus 2.0](http://www.megasecurity.org/trojans/c/casus/Casus2.0.html) [[Web Archive](https://web.archive.org/web/20020812134444/http://www.megasecurity.org/trojans/c/casus/Casus2.0.html)]
+- [Megasecurity: Casus 2.3](http://www.megasecurity.org/trojans/c/casus/Casus2.3.html) [[Web Archive](https://web.archive.org/web/20020812134159/http://www.megasecurity.org/trojans/c/casus/Casus2.3.html)]
+
 ## CyberGate RAT
 
 ![First Seen](https://img.shields.io/badge/Year-2011-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange) ![Client Source Code](https://img.shields.io/badge/Client-delphi-yellow) ![Server Source Code](https://img.shields.io/badge/Server-C++-yellow)
