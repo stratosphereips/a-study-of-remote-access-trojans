@@ -87,6 +87,26 @@ This repository contains a curated list of papers, articles and other sources re
 
 - [Megasecurity: DarkNet](http://www.megasecurity.org/trojans/d/darknet/Darknet.html) [[Web Archive](https://web.archive.org/web/20080906173348/http://www.megasecurity.org/trojans/d/darknet/Darknet.html)] 
 
+## D.I.R.T. (Data Interception by Remote Transmission)
+
+![First Seen](https://img.shields.io/badge/Year-1997-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange) ![Server Source Code](https://img.shields.io/badge/Server-Visual%20C++-yellow) ![Type](https://img.shields.io/badge/Type-Commercial-violet)
+
+- [Codex Data Systems: D.I.R.T](http://www.codexdatasystems.com/) [[Web Archive](https://web.archive.org/web/19981205012253/http://www.codexdatasystems.com/)]
+- [Megasecurity: DIRT Manual](http://www.megasecurity.org/Trojaninfo/DIRTManual2_2clr.pdf) [[Web Archive](https://web.archive.org/web/20110702211953/http://www.megasecurity.org/Trojaninfo/DIRTManual2_2clr.pdf)]
+- [The Dangers of Dissent: The FBI and Civil Liberties since 1965](https://books.google.cz/books?id=ErCHQ4so9VEC&pg=PA167&lpg=PA167&dq=D.I.R.T.+remote+access+trojan&source=bl&ots=ibnOYzlj05&sig=ACfU3U1vb16_Lyq7aav4atp4r-U7Cz6rOQ&hl=en&sa=X&ved=2ahUKEwj_kpmFrb_oAhXhwAIHHVMfCSYQ6AEwHXoECDoQMg#v=onepage&q=D.I.R.T.%20remote%20access%20trojan&f=false) [[Web Archive](https://web.archive.org/web/20201220124432if_/https://books.google.cz/books?id=ErCHQ4so9VEC&pg=PA167&lpg=PA167&dq=D.I.R.T.+remote+access+trojan&source=bl&ots=ibnOYzlj05&sig=ACfU3U1vb16_Lyq7aav4atp4r-U7Cz6rOQ&hl=en&sa=X&ved=2ahUKEwj_kpmFrb_oAhXhwAIHHVMfCSYQ6AEwHXoECDoQMg%23v%3Donepage&q=D.I.R.T.+remote+access+trojan&f=false#v=snippet&q=D.I.R.T.%20remote%20access%20trojan&f=false)]
+- [1998 It's getting easier to dig up DIRT](https://www.pcworld.idg.com.au/article/18226/it_getting_easier_dig_up_dirt/) [[Web Archive](https://web.archive.org/web/20201220122802/https://www.pcworld.idg.com.au/article/18226/it_getting_easier_dig_up_dirt/)]
+- [1998 TheCodex's D.I.R.T. surveillance software](https://cypherpunks.venona.com/date/1998/06/msg00179.html) [[Web Archive](https://web.archive.org/web/20201220122935/https://cypherpunks.venona.com/date/1998/06/msg00179.html)]
+- [1998 Network World Magazine](https://books.google.cz/books?id=GxwEAAAAMBAJ&pg=PA37&lpg=PA37&dq=D.I.R.T.+remote+access+trojan&source=bl&ots=V3IlKmPk76&sig=ACfU3U3eN-KBF8bRLEH60wju9tTM080zyw&hl=en&sa=X&ved=2ahUKEwj_kpmFrb_oAhXhwAIHHVMfCSYQ6AEwC3oECDoQKA#v=onepage&q=D.I.R.T.%20remote%20access%20trojan&f=false) [[Web Archive](https://web.archive.org/web/20201220123332if_/https://books.google.cz/books?id=GxwEAAAAMBAJ&pg=PA37&lpg=PA37&dq=D.I.R.T.+remote+access+trojan&source=bl&ots=V3IlKmPk76&sig=ACfU3U3eN-KBF8bRLEH60wju9tTM080zyw&hl=en&sa=X&ved=2ahUKEwj_kpmFrb_oAhXhwAIHHVMfCSYQ6AEwC3oECDoQKA%23v%3Donepage&q=D.I.R.T.+remote+access+trojan&f=false#v=snippet&q=D.I.R.T.%20remote%20access%20trojan&f=false)]
+- [2001 Trojan vendor dishes the Dirt](http://www.vnunet.com/News/1122902) [[Web Archive](https://web.archive.org/web/20020605223516/http://www.vnunet.com/News/1122902)]
+- [2001 Reg duped by crime-busting D.I.R.T Trojan](https://www.theregister.co.uk/2001/06/06/reg_duped_by_crimebusting_d/) [[Web Archive](https://web.archive.org/web/20200214213232if_/https://www.theregister.co.uk/2001/06/06/reg_duped_by_crimebusting_d/)]
+- [2001 UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK UNITED STATES OF AMERICA v. FRANK JONES](https://cryptome.org/dirty-jones.html) [[Web Archive](https://web.archive.org/web/20191227011918/http://cryptome.org/dirty-jones.htm)]
+- [2001 THE DIRT ON BIG BROTHER HE CAN USE YOUR NET SERVICE TO SPY ON YOU](https://cryptome.org/DIRT-bags.htm) [[Web Archive](https://web.archive.org/web/20020809221235/http://cryptome.org/DIRT-bags.htm)]
+- [2002 Law-enforcement DIRT Trojan released](https://www.theregister.co.uk/2002/03/14/lawenforcement_dirt_trojan_released/) [[Web Archive](https://web.archive.org/web/20040410130628/http://www.theregister.co.uk/2002/03/14/lawenforcement_dirt_trojan_released/)]
+- [2002 D.I.R.T. Spyware Exposed on Web](http://www.securityfocus.com/news/354) [[Web Archive](https://web.archive.org/web/20200301225728/https://www.securityfocus.com/news/354)]
+- [2002 DIRT Guide](http://cryptome.org/dirt-guide.htm) [[Web Archive](https://web.archive.org/web/20191227104050/http://cryptome.org/dirt-guide.htm)]
+- [2002 Cryptome dishes the Dirt](http://www.vnunet.com/News/1130192) [[Web Archive](https://web.archive.org/web/20020604015129/http://www.vnunet.com/News/1130192)]
+- [2014 D.I.R.T](http://justinakapaste.com/dirt/) [[Web Archive](https://web.archive.org/web/20200329095513/http://justinakapaste.com/dirt/)]
+
 ## Girlfriend
 
 ![First Seen](https://img.shields.io/badge/Year-1998-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange)
