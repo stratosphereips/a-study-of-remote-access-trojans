@@ -177,6 +177,7 @@ This repository contains a curated list of papers, articles and other sources re
 - [2004 OPTIXPRO 1.31 and NETDEVIL1.5 TROJAN BACKDOOR EXPOLIT](https://www.giac.org/paper/gcih/560/optixpro-131-netdevil15-trojan-backdoor-expolits/105977) [[Web Archive](https://web.archive.org/web/20201209150439/https://www.giac.org/paper/gcih/560/optixpro-131-netdevil15-trojan-backdoor-expolits/105977)]
 
 ## NetSupport Manager
+
 ![First Seen](https://img.shields.io/badge/Year-1989-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange) ![Targets](https://img.shields.io/badge/Targets-ChromeOS-orange) ![Targets](https://img.shields.io/badge/Targets-MacOS-orange) ![Targets](https://img.shields.io/badge/Targets-Linux-orange) ![Targets](https://img.shields.io/badge/Targets-Android-orange) ![Targets](https://img.shields.io/badge/Targets-iOS-orange) ![Type](https://img.shields.io/badge/Type-Commercial-violet)
 
 - [NetSupport Manager Homepage](https://www.netsupportsoftware.com/remote-control/) [[Web Archive](https://web.archive.org/web/20200609193918/https://www.netsupportsoftware.com/remote-control/)]
@@ -188,6 +189,16 @@ This repository contains a curated list of papers, articles and other sources re
 - [2018 Fake Software Update Abuses NetSupport Remote Access Tool](https://www.fireeye.com/blog/threat-research/2018/04/fake-software-update-abuses-netsupport-remote-access-tool.html) [[Web Archive](https://web.archive.org/web/20201210090411/https://www.fireeye.com/blog/threat-research/2018/04/fake-software-update-abuses-netsupport-remote-access-tool.html)]
 - [2019 NetSupport RAT installed via fake update notices](https://www.zscaler.com/blogs/security-research/netsupport-rat-installed-fake-update-notices) [[Web Archive](https://web.archive.org/web/20201220115407/https://www.zscaler.com/blogs/security-research/netsupport-rat-installed-fake-update-notices)]
 - [2020 Operation TA505: investigating the ServHelper backdoor with NetSupport RAT. Part 2.](https://www.ptsecurity.com/ww-en/analytics/pt-esc-threat-intelligence/operation-ta505-part2/) [[Web Archive](https://web.archive.org/web/20201101010608/https://www.ptsecurity.com/ww-en/analytics/pt-esc-threat-intelligence/operation-ta505-part2/)]
+
+## NokNok
+
+![First Seen](https://img.shields.io/badge/Year-1996-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange)
+
+- [Megasecurity: NokNok 5.0](http://www.megasecurity.org/trojans/n/noknok/Noknok5.0.html) [[Web Archive](https://web.archive.org/web/20081201090344/http://www.megasecurity.org/trojans/n/noknok/Noknok5.0.html)]
+- [Megasecurity: NokNok All Versions](http://www.megasecurity.org/trojans/n/noknok/Noknok_all.html) [[Web Archive](https://web.archive.org/web/20090109053617/http://www.megasecurity.org/trojans/n/noknok/Noknok_all.html)]
+- [PC-FREAK: NokNok](https://www.pc-freak.net/tutorials/hacking_info/trojans_info/tr_data/y2372.html) [[Web Archive](https://web.archive.org/web/20200329090040/https://www.pc-freak.net/tutorials/hacking_info/trojans_info/tr_data/y2372.html)]
+- [2004 TROJAN: NokNok Client Command](http://services.netscreen.com/documentation/signatures/TROJAN%3AMISC%3ANOKNOK-COMMAND.html) [[Web Archive](https://web.archive.org/web/20201220120901/http://services.netscreen.com/documentation/signatures/TROJAN:MISC:NOKNOK-COMMAND.html)]
+
 
 ## ObliqueRAT
 
