@@ -176,6 +176,19 @@ This repository contains a curated list of papers, articles and other sources re
 - [2002 Symantec: Backdoor.NetDevil](https://www.symantec.com/security_response//writeup.jsp?docid=2002-021310-3452-99) [[Web Archive](https://web.archive.org/web/20151023003009/https://www.symantec.com/security_response//writeup.jsp?docid=2002-021310-3452-99)]
 - [2004 OPTIXPRO 1.31 and NETDEVIL1.5 TROJAN BACKDOOR EXPOLIT](https://www.giac.org/paper/gcih/560/optixpro-131-netdevil15-trojan-backdoor-expolits/105977) [[Web Archive](https://web.archive.org/web/20201209150439/https://www.giac.org/paper/gcih/560/optixpro-131-netdevil15-trojan-backdoor-expolits/105977)]
 
+## NetSupport Manager
+![First Seen](https://img.shields.io/badge/Year-1989-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange) ![Targets](https://img.shields.io/badge/Targets-ChromeOS-orange) ![Targets](https://img.shields.io/badge/Targets-MacOS-orange) ![Targets](https://img.shields.io/badge/Targets-Linux-orange) ![Targets](https://img.shields.io/badge/Targets-Android-orange) ![Targets](https://img.shields.io/badge/Targets-iOS-orange) ![Type](https://img.shields.io/badge/Type-Commercial-violet)
+
+- [NetSupport Manager Homepage](https://www.netsupportsoftware.com/remote-control/) [[Web Archive](https://web.archive.org/web/20200609193918/https://www.netsupportsoftware.com/remote-control/)]
+- [Wikipedia: NetSupport Manager
+](https://en.wikipedia.org/wiki/NetSupport\_Manager) [[Web Archive](https://web.archive.org/web/20201119221005/https://en.wikipedia.org/wiki/NetSupport_Manager)]
+- [2014 An Intro to NetSupport Manager Scripts](https://www.trustwave.com/Resources/SpiderLabs-Blog/An-Intro-to-NetSupport-Manager-Scripts/) [[Web Archive](https://web.archive.org/web/20190328004633/https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/an-intro-to-netsupport-manager-scripts/)]
+- [2017 EITest: HoeflerText Popups Targeting Google Chrome Users Now Push RAT Malware
+](https://researchcenter.paloaltonetworks.com/2017/09/unit42-hoeflertext-popups-targeting-google-chrome-users-now-pushing-rat-malware/) [[Web Archive](https://web.archive.org/web/20201208015032/https://unit42.paloaltonetworks.com/unit42-hoeflertext-popups-targeting-google-chrome-users-now-pushing-rat-malware/)]
+- [2018 Fake Software Update Abuses NetSupport Remote Access Tool](https://www.fireeye.com/blog/threat-research/2018/04/fake-software-update-abuses-netsupport-remote-access-tool.html) [[Web Archive](https://web.archive.org/web/20201210090411/https://www.fireeye.com/blog/threat-research/2018/04/fake-software-update-abuses-netsupport-remote-access-tool.html)]
+- [2019 NetSupport RAT installed via fake update notices](https://www.zscaler.com/blogs/security-research/netsupport-rat-installed-fake-update-notices) [[Web Archive](https://web.archive.org/web/20201220115407/https://www.zscaler.com/blogs/security-research/netsupport-rat-installed-fake-update-notices)]
+- [2020 Operation TA505: investigating the ServHelper backdoor with NetSupport RAT. Part 2.](https://www.ptsecurity.com/ww-en/analytics/pt-esc-threat-intelligence/operation-ta505-part2/) [[Web Archive](https://web.archive.org/web/20201101010608/https://www.ptsecurity.com/ww-en/analytics/pt-esc-threat-intelligence/operation-ta505-part2/)]
+
 ## ObliqueRAT
 
 ![First Seen](https://img.shields.io/badge/Year-2020-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange)
