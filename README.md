@@ -16,6 +16,12 @@ This repository contains a curated list of papers, articles and other sources re
 - [ANDROID TESTER V6.4.6 (RAT) Cracked + Source - BlackHatRussia](https://www.blackhatrussia.com/1424-android-tester-v646-rat-cracked-source.html) [[Web Archive](https://web.archive.org/web/20210705135241/https://www.blackhatrussia.com/1424-android-tester-v646-rat-cracked-source.html)]
 - [Dissecting a RAT. Android Tester Trojan Analysis and Decoding. - Stratosphere Laboratory](https://www.stratosphereips.org/blog/2020/12/14/ngwqj0h060yv40w1afp51fg7wo9ijy-pzlhk) [[Web Archive](https://web.archive.org/web/20201218181400/https://www.stratosphereips.org/blog/2020/12/14/ngwqj0h060yv40w1afp51fg7wo9ijy-pzlhk)]
 
+## Async RAT
+![First Seen](https://img.shields.io/badge/Year-2018-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange)
+
+- [AsyncRAT - GitHub](https://github.com/NYAN-x-CAT/AsyncRAT) [[Web Archive](https://web.archive.org/web/20210227184617/https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp/)]
+- [AsyncRAT - GitHub](https://github.com/NYAN-x-CAT-is-My-Brother/AsyncRAT-C-Sharp) [[Web Archive](https://web.archive.org/web/20201022072049/https://github.com/NYAN-x-CAT-is-My-Brother/AsyncRAT-C-Sharp)]
+- [AsyncRAT - TCP Asynchronous Socket - Remote Administration Tool - Raid Forums](https://raidforums.com/Thread-AsyncRAT-TCP-Asynchronous-Socket-Remote-Administration-Tool) [[Web Archive](https://web.archive.org/web/20210705145425/https://raidforums.com/Thread-AsyncRAT-TCP-Asynchronous-Socket-Remote-Administration-Tool)]
 
 ## Atelier Web Remote Commander
 
