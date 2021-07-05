@@ -10,6 +10,13 @@ This repository contains a curated list of papers, articles and other sources re
 - [Megasecurity: A4zeta beta1](http://www.megasecurity.org/trojans/a/a4zeta/A4zeta_b1.html) [[Web Archive](https://web.archive.org/web/20021105231644/http://www.megasecurity.org/trojans/a/a4zeta/A4zeta_b1.html)]
 - [Megasecurity: A4zeta beta2](http://www.megasecurity.org/trojans/a/a4zeta/A4zeta_b2.html) [[Web Archive](https://web.archive.org/web/20021105232028/http://www.megasecurity.org/trojans/a/a4zeta/A4zeta_b2.html)]
 
+## Android Tester RAT
+![First Seen](https://img.shields.io/badge/Year-2020-blue) ![Targets](https://img.shields.io/badge/Targets-Android-orange)
+
+- [ANDROID TESTER V6.4.6 (RAT) Cracked + Source - BlackHatRussia](https://www.blackhatrussia.com/1424-android-tester-v646-rat-cracked-source.html) [[Web Archive]](https://web.archive.org/web/20210705135241/https://www.blackhatrussia.com/1424-android-tester-v646-rat-cracked-source.html)
+- [Dissecting a RAT. Android Tester Trojan Analysis and Decoding. - Stratosphere Laboratory](https://www.stratosphereips.org/blog/2020/12/14/ngwqj0h060yv40w1afp51fg7wo9ijy-pzlhk) [[Web Archive]](https://web.archive.org/web/20201218181400/https://www.stratosphereips.org/blog/2020/12/14/ngwqj0h060yv40w1afp51fg7wo9ijy-pzlhk)
+
+
 ## Atelier Web Remote Commander
 
 ![First Seen](https://img.shields.io/badge/Year-2001-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange) ![Alias](https://img.shields.io/badge/Alias-AWRC-503040) 
