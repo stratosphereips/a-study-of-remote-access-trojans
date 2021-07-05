@@ -166,6 +166,12 @@ This repository contains a curated list of papers, articles and other sources re
 - [2020 JhoneRAT: Cloud based python RAT targeting Middle Eastern countries](https://blog.talosintelligence.com/2020/01/jhonerat.html) [[Web Archive](https://web.archive.org/web/20200411085247/https://blog.talosintelligence.com/2020/01/jhonerat.html)]
 - [2020 JhoneRat – a snake in the network](https://www.cyjax.com/2020/01/21/jhonerat-a-multi-stage-targeted-malware-infection/) [[Web Archive](https://web.archive.org/web/20200922080847/https://www.cyjax.com/2020/01/21/jhonerat-a-multi-stage-targeted-malware-infection/)]
 
+## KevDroid RAT
+![First Seen](https://img.shields.io/badge/Year-2018-blue) ![Targets](https://img.shields.io/badge/Targets-Android-orange)
+
+- [Fake AV Investigation Unearths KevDroid, New Android Malware - Cisco Talos](http://blog.talosintelligence.com/2018/04/fake-av-investigation-unearths-kevdroid.html) [[Web Archive](https://web.archive.org/web/20210224211712/https://blog.talosintelligence.com/2018/04/fake-av-investigation-unearths-kevdroid.html)]
+- [KevDroid - NJCCIC Threat Profile](https://www.cyber.nj.gov/threat-profiles/android-malware-variants/kevdroid) [[Web Archive](https://web.archive.org/web/20210705150438/https://www.cyber.nj.gov/threat-profiles/android-malware-variants/kevdroid)]
+
 ## LokiTech
 
 ![First Seen](https://img.shields.io/badge/Year-2003-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange) ![Client Source Code](https://img.shields.io/badge/Client-Visual%20Basic-yellow) ![Server Source Code](https://img.shields.io/badge/Server-Visual%20Basic-yellow)
@@ -199,6 +205,54 @@ This repository contains a curated list of papers, articles and other sources re
 - [PC-Freak: Net-Devil](https://www.pc-freak.net/tutorials/hacking_info/trojans_info/tr_data/y2267.html) [[Web Archive](https://web.archive.org/web/20201209150028/https://www.pc-freak.net/tutorials/hacking_info/trojans_info/tr_data/y2267.html)]
 - [2002 Symantec: Backdoor.NetDevil](https://www.symantec.com/security_response//writeup.jsp?docid=2002-021310-3452-99) [[Web Archive](https://web.archive.org/web/20151023003009/https://www.symantec.com/security_response//writeup.jsp?docid=2002-021310-3452-99)]
 - [2004 OPTIXPRO 1.31 and NETDEVIL1.5 TROJAN BACKDOOR EXPOLIT](https://www.giac.org/paper/gcih/560/optixpro-131-netdevil15-trojan-backdoor-expolits/105977) [[Web Archive](https://web.archive.org/web/20201209150439/https://www.giac.org/paper/gcih/560/optixpro-131-netdevil15-trojan-backdoor-expolits/105977)]
+
+## ObliqueRAT
+
+![First Seen](https://img.shields.io/badge/Year-2020-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange)
+
+- [2020 ObliqueRAT: New RAT hits victims' endpoints via malicious documents](https://blog.talosintelligence.com/2020/02/obliquerat-hits-victims-via-maldocs.html) [[Web Archive](https://web.archive.org/web/20200311091640/https://blog.talosintelligence.com/2020/02/obliquerat-hits-victims-via-maldocs.html)]
+- [2020 Transparent Tribe: Evolution analysis, part 2](https://securelist.com/transparent-tribe-part-2/98233/) [[Web Archive](https://web.archive.org/web/20201026064017/https://securelist.com/transparent-tribe-part-2/98233/)]
+- [South Asia APT organizes the "transparent tribe" to compete with opponents on mobile](https://www.secrss.com/articles/24995) [[Web Archive](https://web.archive.org/web/20201203173735/https://www.secrss.com/articles/24995)]
+
+## Overseer RAT
+![First Seen](https://img.shields.io/badge/Year-2018-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange)
+
+- [Free 3 Month License to OverSeer RAT (Silent Miner RAT with inbuilt crypter) - HackForums](https://hackforums.net/showthread.php?tid=5790586&highlight=RAT)
+- [Overseer RAT : 0.2 - Nulled](https://nulledbb.com/thread-Overseer-RAT-0-2) [[Web Archive](https://web.archive.org/web/20210705143237/https://nulledbb.com/thread-Overseer-RAT-0-2)]
+- [MONERO AND WANNAMINE - The cyber-criminal cryptocurrency and miner malware of choice - Accenture](https://www.accenture.com/t20180322T091347Z__w__/us-en/_acnmedia/PDF-46/Accenture-Threat-Analysis-Monero-Wannamine.pdf) [[Web Archive](https://web.archive.org/web/20201109015759/https://www.accenture.com/t20180322T091347Z__w__/us-en/_acnmedia/PDF-46/Accenture-Threat-Analysis-Monero-Wannamine.pdf)]
+
+## Pandora
+
+![First Seen](https://img.shields.io/badge/Year-2002-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange)
+
+- [Megasecurity: Pandora1.1](http://www.megasecurity.org/trojans/p/pandora/Pandora1.1.html) [[Web Archive](https://web.archive.org/web/20080906164023/http://www.megasecurity.org/trojans/p/pandora/Pandora1.1.html)]
+
+## Poison Ivy
+
+![First Seen](https://img.shields.io/badge/Year-2005-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange) ![Alias](https://img.shields.io/badge/Alias-Darkmoon-503040)
+
+- [2008 Poison Ivy Remote Administration Tool Homepage](www.poisonivy-rat.com) [[Web Archive](https://web.archive.org/web/20080901081727/http://www.poisonivy-rat.com/)]
+- [2014 Cisco Talos: Threat Spotlight: Group 72](http://blogs.cisco.com/security/talos/threat-spotlight-group-72) [[Web Archive](https://web.archive.org/web/20190819114216/https://blogs.cisco.com/security/talos/threat-spotlight-group-72)]
+- [2014 FireEye: POISON IVY: Assessing Damage and Extracting Intelligence](https://www.fireeye.com/content/dam/fireeye-www/global/en/current-threats/pdfs/rpt-poison-ivy.pdf) [[Web Archive](https://web.archive.org/web/20200511231612/https://www.fireeye.com/content/dam/fireeye-www/global/en/current-threats/pdfs/rpt-poison-ivy.pdf)]
+- [2016 Operation DustySky - Part 2](https://www.clearskysec.com/wp-content/uploads/2016/06/Operation-DustySky2_-6.2016_TLP_White.pdf) [[Web Archive](https://web.archive.org/web/20201001195808/https://www.clearskysec.com/wp-content/uploads/2016/06/Operation-DustySky2_-6.2016_TLP_White.pdf)]
+- [F-Secure: Backdoor:W32/PoisonIvy](https://www.f-secure.com/v-descs/backdoor_w32_poisonivy.shtml) [[Web Archive](https://web.archive.org/web/20190908094326/https://www.f-secure.com/v-descs/backdoor_w32_poisonivy.shtml)] 
+
+## ProRAT
+
+![First Seen](https://img.shields.io/badge/Year-2002-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange) 
+
+- [Megasecurity: ProRat 1.0b](http://www.megasecurity.org/trojans/p/prorat/Prorat1.0b.html) [[Web Archive](https://web.archive.org/web/20030710020430/http://www.megasecurity.org/trojans/p/prorat/Prorat1.0b.html)]
+- [An Introduction To Keyloggers, RATS And Malware](http://index-of.es/EBooks/An%20Introduction%20To%20Keylogger,%20RATS%20And%20Malware.pdf) [[Web Archive](https://web.archive.org/web/20201209152933/http://index-of.es/EBooks/An%20Introduction%20To%20Keylogger,%20RATS%20And%20Malware.pdf)]
+- [2012 [Tutorial] ProRat V1.9 SETUP, Its guide,port forwarding & FAQs [Q&A]](https://coolhackerboy.wordpress.com/2012/03/13/tutorial-prorat-v1-9-setup-its-guideport-forwarding-faqs-qa/) [[Web Archive](https://web.archive.org/web/20201209152458/https://coolhackerboy.wordpress.com/2012/03/13/tutorial-prorat-v1-9-setup-its-guideport-forwarding-faqs-qa/)]
+- [2014 HACK A SYSTEM USING RAT’S](https://ultimate1337.wordpress.com/tag/prorat/) [[Web Archive](https://web.archive.org/web/20201209152631/https://ultimate1337.wordpress.com/tag/prorat/)]
+- [2015 New RATs Emerge from Leaked Njw0rm Source Code ](http://blog.trendmicro.com/trendlabs-security-intelligence/new-rats-emerge-from-leaked-njw0rm-source-code/) [[Web Archive](https://www.trendmicro.com/en_us/research/15/a/new-rats-emerge-from-leaked-njw0rm-source-code.html)]
+- [2020 Carders: ProRat ~Best and Free Remote Administration Tools~Backdoor Trojan Horse](https://carders.ws/threads/prorat-best-and-free-remote-administration-tools-backdoor-trojan-horse.2474/) [[Web Archive](https://web.archive.org/web/20201209152819/https://carders.ws/threads/prorat-best-and-free-remote-administration-tools-backdoor-trojan-horse.2474/)]
+
+## PubNub RAT
+![First Seen](https://img.shields.io/badge/Year-2018-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange)
+
+- [Fake AV Investigation Unearths KevDroid, New Android Malware - Cisco Talos](http://blog.talosintelligence.com/2018/04/fake-av-investigation-unearths-kevdroid.html) [[Web Archive](https://web.archive.org/web/20210224211712/https://blog.talosintelligence.com/2018/04/fake-av-investigation-unearths-kevdroid.html)]
+
 
 ## Socket23
 
@@ -254,49 +308,6 @@ This repository contains a curated list of papers, articles and other sources re
 
 - [Megasecurity: Toquito Bandito 1.0](http://www.megasecurity.org/trojans/t/toquitobandito/Toquitobandito1.0.html) [[Web Archive](https://web.archive.org/web/20050328210450/http://www.megasecurity.org/trojans/t/toquitobandito/Toquitobandito1.0.html)]
 - [Megasecurity: Toquitobadito All](https://www.megasecurity.org/trojans/t/toquitobandito/Toquitobandito_all.html) [[Web Archive](https://web.archive.org/web/20161014124932/http://www.megasecurity.org/trojans/t/toquitobandito/Toquitobandito_all.html)]
-
-## ObliqueRAT
-
-![First Seen](https://img.shields.io/badge/Year-2020-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange)
-
-- [2020 ObliqueRAT: New RAT hits victims' endpoints via malicious documents](https://blog.talosintelligence.com/2020/02/obliquerat-hits-victims-via-maldocs.html) [[Web Archive](https://web.archive.org/web/20200311091640/https://blog.talosintelligence.com/2020/02/obliquerat-hits-victims-via-maldocs.html)]
-- [2020 Transparent Tribe: Evolution analysis, part 2](https://securelist.com/transparent-tribe-part-2/98233/) [[Web Archive](https://web.archive.org/web/20201026064017/https://securelist.com/transparent-tribe-part-2/98233/)]
-- [South Asia APT organizes the "transparent tribe" to compete with opponents on mobile](https://www.secrss.com/articles/24995) [[Web Archive](https://web.archive.org/web/20201203173735/https://www.secrss.com/articles/24995)]
-
-## Overseer RAT
-![First Seen](https://img.shields.io/badge/Year-2018-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange)
-
-- [Free 3 Month License to OverSeer RAT (Silent Miner RAT with inbuilt crypter) - HackForums](https://hackforums.net/showthread.php?tid=5790586&highlight=RAT)
-- [Overseer RAT : 0.2 - Nulled](https://nulledbb.com/thread-Overseer-RAT-0-2) [[Web Archive](https://web.archive.org/web/20210705143237/https://nulledbb.com/thread-Overseer-RAT-0-2)]
-- [MONERO AND WANNAMINE - The cyber-criminal cryptocurrency and miner malware of choice - Accenture](https://www.accenture.com/t20180322T091347Z__w__/us-en/_acnmedia/PDF-46/Accenture-Threat-Analysis-Monero-Wannamine.pdf) [[Web Archive](https://web.archive.org/web/20201109015759/https://www.accenture.com/t20180322T091347Z__w__/us-en/_acnmedia/PDF-46/Accenture-Threat-Analysis-Monero-Wannamine.pdf)]
-
-## Pandora
-
-![First Seen](https://img.shields.io/badge/Year-2002-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange)
-
-- [Megasecurity: Pandora1.1](http://www.megasecurity.org/trojans/p/pandora/Pandora1.1.html) [[Web Archive](https://web.archive.org/web/20080906164023/http://www.megasecurity.org/trojans/p/pandora/Pandora1.1.html)]
-
-
-## Poison Ivy
-
-![First Seen](https://img.shields.io/badge/Year-2005-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange) ![Alias](https://img.shields.io/badge/Alias-Darkmoon-503040)
-
-- [2008 Poison Ivy Remote Administration Tool Homepage](www.poisonivy-rat.com) [[Web Archive](https://web.archive.org/web/20080901081727/http://www.poisonivy-rat.com/)]
-- [2014 Cisco Talos: Threat Spotlight: Group 72](http://blogs.cisco.com/security/talos/threat-spotlight-group-72) [[Web Archive](https://web.archive.org/web/20190819114216/https://blogs.cisco.com/security/talos/threat-spotlight-group-72)]
-- [2014 FireEye: POISON IVY: Assessing Damage and Extracting Intelligence](https://www.fireeye.com/content/dam/fireeye-www/global/en/current-threats/pdfs/rpt-poison-ivy.pdf) [[Web Archive](https://web.archive.org/web/20200511231612/https://www.fireeye.com/content/dam/fireeye-www/global/en/current-threats/pdfs/rpt-poison-ivy.pdf)]
-- [2016 Operation DustySky - Part 2](https://www.clearskysec.com/wp-content/uploads/2016/06/Operation-DustySky2_-6.2016_TLP_White.pdf) [[Web Archive](https://web.archive.org/web/20201001195808/https://www.clearskysec.com/wp-content/uploads/2016/06/Operation-DustySky2_-6.2016_TLP_White.pdf)]
-- [F-Secure: Backdoor:W32/PoisonIvy](https://www.f-secure.com/v-descs/backdoor_w32_poisonivy.shtml) [[Web Archive](https://web.archive.org/web/20190908094326/https://www.f-secure.com/v-descs/backdoor_w32_poisonivy.shtml)] 
-
-## ProRAT
-
-![First Seen](https://img.shields.io/badge/Year-2002-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange) 
-
-- [Megasecurity: ProRat 1.0b](http://www.megasecurity.org/trojans/p/prorat/Prorat1.0b.html) [[Web Archive](https://web.archive.org/web/20030710020430/http://www.megasecurity.org/trojans/p/prorat/Prorat1.0b.html)]
-- [An Introduction To Keyloggers, RATS And Malware](http://index-of.es/EBooks/An%20Introduction%20To%20Keylogger,%20RATS%20And%20Malware.pdf) [[Web Archive](https://web.archive.org/web/20201209152933/http://index-of.es/EBooks/An%20Introduction%20To%20Keylogger,%20RATS%20And%20Malware.pdf)]
-- [2012 [Tutorial] ProRat V1.9 SETUP, Its guide,port forwarding & FAQs [Q&A]](https://coolhackerboy.wordpress.com/2012/03/13/tutorial-prorat-v1-9-setup-its-guideport-forwarding-faqs-qa/) [[Web Archive](https://web.archive.org/web/20201209152458/https://coolhackerboy.wordpress.com/2012/03/13/tutorial-prorat-v1-9-setup-its-guideport-forwarding-faqs-qa/)]
-- [2014 HACK A SYSTEM USING RAT’S](https://ultimate1337.wordpress.com/tag/prorat/) [[Web Archive](https://web.archive.org/web/20201209152631/https://ultimate1337.wordpress.com/tag/prorat/)]
-- [2015 New RATs Emerge from Leaked Njw0rm Source Code ](http://blog.trendmicro.com/trendlabs-security-intelligence/new-rats-emerge-from-leaked-njw0rm-source-code/) [[Web Archive](https://www.trendmicro.com/en_us/research/15/a/new-rats-emerge-from-leaked-njw0rm-source-code.html)]
-- [2020 Carders: ProRat ~Best and Free Remote Administration Tools~Backdoor Trojan Horse](https://carders.ws/threads/prorat-best-and-free-remote-administration-tools-backdoor-trojan-horse.2474/) [[Web Archive](https://web.archive.org/web/20201209152819/https://carders.ws/threads/prorat-best-and-free-remote-administration-tools-backdoor-trojan-horse.2474/)]
 
 ## Vigilix
 
