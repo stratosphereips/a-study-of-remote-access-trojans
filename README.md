@@ -13,8 +13,8 @@ This repository contains a curated list of papers, articles and other sources re
 ## Android Tester RAT
 ![First Seen](https://img.shields.io/badge/Year-2020-blue) ![Targets](https://img.shields.io/badge/Targets-Android-orange)
 
-- [ANDROID TESTER V6.4.6 (RAT) Cracked + Source - BlackHatRussia](https://www.blackhatrussia.com/1424-android-tester-v646-rat-cracked-source.html) [[Web Archive]](https://web.archive.org/web/20210705135241/https://www.blackhatrussia.com/1424-android-tester-v646-rat-cracked-source.html)
-- [Dissecting a RAT. Android Tester Trojan Analysis and Decoding. - Stratosphere Laboratory](https://www.stratosphereips.org/blog/2020/12/14/ngwqj0h060yv40w1afp51fg7wo9ijy-pzlhk) [[Web Archive]](https://web.archive.org/web/20201218181400/https://www.stratosphereips.org/blog/2020/12/14/ngwqj0h060yv40w1afp51fg7wo9ijy-pzlhk)
+- [ANDROID TESTER V6.4.6 (RAT) Cracked + Source - BlackHatRussia](https://www.blackhatrussia.com/1424-android-tester-v646-rat-cracked-source.html) [[Web Archive](https://web.archive.org/web/20210705135241/https://www.blackhatrussia.com/1424-android-tester-v646-rat-cracked-source.html)]
+- [Dissecting a RAT. Android Tester Trojan Analysis and Decoding. - Stratosphere Laboratory](https://www.stratosphereips.org/blog/2020/12/14/ngwqj0h060yv40w1afp51fg7wo9ijy-pzlhk) [[Web Archive](https://web.archive.org/web/20201218181400/https://www.stratosphereips.org/blog/2020/12/14/ngwqj0h060yv40w1afp51fg7wo9ijy-pzlhk)]
 
 
 ## Atelier Web Remote Commander
@@ -81,8 +81,8 @@ This repository contains a curated list of papers, articles and other sources re
 ## Coringa RAT (njRAT variant)
 ![First Seen](https://img.shields.io/badge/Year-2016-blue) 
 
-- [Coringa-RAT v0.3](http://oficialtrajan.blogspot.com/2017/02/coringa-rat-v03.html) [[Web Archive]](http://web.archive.org/web/20181014103934/http://oficialtrajan.blogspot.com/2017/02/coringa-rat-v03.html)
-- [Coringa-RAT 0.3 Espanol RAT - HackForums](https://hackforums.net/showthread.php?tid=5416733&highlight=RAT) [[Web Archive]](http://web.archive.org/web/20210705130131/https://hackforums.net/showthread.php?tid=5416733&highlight=RAT)
+- [Coringa-RAT v0.3](http://oficialtrajan.blogspot.com/2017/02/coringa-rat-v03.html) [[Web Archive](http://web.archive.org/web/20181014103934/http://oficialtrajan.blogspot.com/2017/02/coringa-rat-v03.html)]
+- [Coringa-RAT 0.3 Espanol RAT - HackForums](https://hackforums.net/showthread.php?tid=5416733&highlight=RAT) [[Web Archive](http://web.archive.org/web/20210705130131/https://hackforums.net/showthread.php?tid=5416733&highlight=RAT)]
 
 ## CyberGate RAT
 
@@ -102,12 +102,12 @@ This repository contains a curated list of papers, articles and other sources re
 ## DroidJack RAT
 ![First Seen](https://img.shields.io/badge/Year-2014-blue) ![Targets](https://img.shields.io/badge/Targets-Android-orange)
 
-- [Using DroidJack spyware to snoop on your spouse could get you arrested - Sophis](https://nakedsecurity.sophos.com/2015/10/31/using-droidjack-spyware-to-snoop-on-your-spouse-could-get-you-arrested/) [[Web Archive]](https://web.archive.org/web/20201224003924/https://nakedsecurity.sophos.com/2015/10/31/using-droidjack-spyware-to-snoop-on-your-spouse-could-get-you-arrested/)
-- [Iranian Hackers’ Rising Interest in Targeting Android Systems With DroidJack, AndroRAT - RecordedFuture](https://www.recordedfuture.com/iranian-forums-targeting-android/) [[Web Archive]](https://web.archive.org/web/20210116175545/https://www.recordedfuture.com/iranian-forums-targeting-android/)
-- [DroidJack RAT hits hacker forums, comes from legitimate app developers - SCMagazine](https://www.scmagazine.com/droidjack-rat-posted-for-sale-online/article/539362/) [[Web Archive]](https://web.archive.org/web/20190808143206/https://www.scmagazine.com/home/security-news/droidjack-rat-hits-hacker-forums-comes-from-legitimate-app-developers/)
-- [DroidJack RAT: A tale of how budding entrepreneurism can turn to cybercrime - Broadcom Symantec](https://community.broadcom.com/symantecenterprise/communities/community-home/librarydocuments/viewdocument?DocumentKey=10119736-5e52-4126-a3a3-31ab62ac7fa9&CommunityKey=1ecf5f55-9545-44d6-b0f4-4e4a7f5f5e68&tab=librarydocuments) [[Web Archive]](https://web.archive.org/web/20210510225628/https://community.broadcom.com/symantecenterprise/communities/community-home/librarydocuments/viewdocument?DocumentKey=10119736-5e52-4126-a3a3-31ab62ac7fa9&CommunityKey=1ecf5f55-9545-44d6-b0f4-4e4a7f5f5e68&tab=librarydocuments)
-- [Police in US, Europe raid homes of supersnoop Droidjack RAT suspects - The Register](https://www.theregister.co.uk/2015/10/30/droidjack_raids/) [[Web Archive]](https://web.archive.org/web/20201108175022/https://www.theregister.com/2015/10/30/droidjack_raids/)
-- [Using DroidJack to spy on an Android? Expect a visit from the police - Eset](https://www.welivesecurity.com/2015/10/30/using-droidjack-spy-android-expect-visit-police/) [[Web Archive]](https://web.archive.org/web/20201207060821/https://www.welivesecurity.com/2015/10/30/using-droidjack-spy-android-expect-visit-police/)
+- [Using DroidJack spyware to snoop on your spouse could get you arrested - Sophis](https://nakedsecurity.sophos.com/2015/10/31/using-droidjack-spyware-to-snoop-on-your-spouse-could-get-you-arrested/) [[Web Archive](https://web.archive.org/web/20201224003924/https://nakedsecurity.sophos.com/2015/10/31/using-droidjack-spyware-to-snoop-on-your-spouse-could-get-you-arrested/)]
+- [Iranian Hackers’ Rising Interest in Targeting Android Systems With DroidJack, AndroRAT - RecordedFuture](https://www.recordedfuture.com/iranian-forums-targeting-android/) [[Web Archive](https://web.archive.org/web/20210116175545/https://www.recordedfuture.com/iranian-forums-targeting-android/)]
+- [DroidJack RAT hits hacker forums, comes from legitimate app developers - SCMagazine](https://www.scmagazine.com/droidjack-rat-posted-for-sale-online/article/539362/) [[Web Archive](https://web.archive.org/web/20190808143206/https://www.scmagazine.com/home/security-news/droidjack-rat-hits-hacker-forums-comes-from-legitimate-app-developers/)]
+- [DroidJack RAT: A tale of how budding entrepreneurism can turn to cybercrime - Broadcom Symantec](https://community.broadcom.com/symantecenterprise/communities/community-home/librarydocuments/viewdocument?DocumentKey=10119736-5e52-4126-a3a3-31ab62ac7fa9&CommunityKey=1ecf5f55-9545-44d6-b0f4-4e4a7f5f5e68&tab=librarydocuments) [[Web Archive](https://web.archive.org/web/20210510225628/https://community.broadcom.com/symantecenterprise/communities/community-home/librarydocuments/viewdocument?DocumentKey=10119736-5e52-4126-a3a3-31ab62ac7fa9&CommunityKey=1ecf5f55-9545-44d6-b0f4-4e4a7f5f5e68&tab=librarydocuments)]
+- [Police in US, Europe raid homes of supersnoop Droidjack RAT suspects - The Register](https://www.theregister.co.uk/2015/10/30/droidjack_raids/) [[Web Archive](https://web.archive.org/web/20201108175022/https://www.theregister.com/2015/10/30/droidjack_raids/)]
+- [Using DroidJack to spy on an Android? Expect a visit from the police - Eset](https://www.welivesecurity.com/2015/10/30/using-droidjack-spy-android-expect-visit-police/) [[Web Archive](https://web.archive.org/web/20201207060821/https://www.welivesecurity.com/2015/10/30/using-droidjack-spy-android-expect-visit-police/)]
 
 
 ## Girlfriend
@@ -257,12 +257,12 @@ This repository contains a curated list of papers, articles and other sources re
 - [2020 Transparent Tribe: Evolution analysis, part 2](https://securelist.com/transparent-tribe-part-2/98233/) [[Web Archive](https://web.archive.org/web/20201026064017/https://securelist.com/transparent-tribe-part-2/98233/)]
 - [South Asia APT organizes the "transparent tribe" to compete with opponents on mobile](https://www.secrss.com/articles/24995) [[Web Archive](https://web.archive.org/web/20201203173735/https://www.secrss.com/articles/24995)]
 
-## OverSeer RAT
+## Overseer RAT
 ![First Seen](https://img.shields.io/badge/Year-2018-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange)
 
 - [Free 3 Month License to OverSeer RAT (Silent Miner RAT with inbuilt crypter) - HackForums](https://hackforums.net/showthread.php?tid=5790586&highlight=RAT)
 - [Overseer RAT : 0.2 - Nulled](https://nulledbb.com/thread-Overseer-RAT-0-2)
-- [MONERO AND WANNAMINE - The cyber-criminal cryptocurrency and miner malware of choice - Accenture](https://www.accenture.com/t20180322T091347Z__w__/us-en/_acnmedia/PDF-46/Accenture-Threat-Analysis-Monero-Wannamine.pdf) [[Web Archive]](https://web.archive.org/web/20201109015759/https://www.accenture.com/t20180322T091347Z__w__/us-en/_acnmedia/PDF-46/Accenture-Threat-Analysis-Monero-Wannamine.pdf)
+- [MONERO AND WANNAMINE - The cyber-criminal cryptocurrency and miner malware of choice - Accenture](https://www.accenture.com/t20180322T091347Z__w__/us-en/_acnmedia/PDF-46/Accenture-Threat-Analysis-Monero-Wannamine.pdf) [[Web Archive](https://web.archive.org/web/20201109015759/https://www.accenture.com/t20180322T091347Z__w__/us-en/_acnmedia/PDF-46/Accenture-Threat-Analysis-Monero-Wannamine.pdf)]
 
 ## Pandora
 
