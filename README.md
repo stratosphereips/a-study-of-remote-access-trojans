@@ -1,4 +1,4 @@
-# Awesome Remote Access Trojans [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# A Study of Remote Access Trojans
 
 This repository contains a curated list of papers, articles and other sources related to remote access trojans. Entries are sorted alphabetically. For corrections, suggestions, or missing papers, please either open an issue or submit a pull request. 
 
@@ -9,6 +9,19 @@ This repository contains a curated list of papers, articles and other sources re
 - [Megasecurity: A4zeta all](http://www.megasecurity.org/trojans/a/a4zeta/A4zeta_all.html) [[Web Archive](https://web.archive.org/web/20021113014408/http://www.megasecurity.org/trojans/a/a4zeta/A4zeta_all.html)]
 - [Megasecurity: A4zeta beta1](http://www.megasecurity.org/trojans/a/a4zeta/A4zeta_b1.html) [[Web Archive](https://web.archive.org/web/20021105231644/http://www.megasecurity.org/trojans/a/a4zeta/A4zeta_b1.html)]
 - [Megasecurity: A4zeta beta2](http://www.megasecurity.org/trojans/a/a4zeta/A4zeta_b2.html) [[Web Archive](https://web.archive.org/web/20021105232028/http://www.megasecurity.org/trojans/a/a4zeta/A4zeta_b2.html)]
+
+## Android Tester RAT
+![First Seen](https://img.shields.io/badge/Year-2020-blue) ![Targets](https://img.shields.io/badge/Targets-Android-orange)
+
+- [ANDROID TESTER V6.4.6 (RAT) Cracked + Source - BlackHatRussia](https://www.blackhatrussia.com/1424-android-tester-v646-rat-cracked-source.html) [[Web Archive](https://web.archive.org/web/20210705135241/https://www.blackhatrussia.com/1424-android-tester-v646-rat-cracked-source.html)]
+- [Dissecting a RAT. Android Tester Trojan Analysis and Decoding. - Stratosphere Laboratory](https://www.stratosphereips.org/blog/2020/12/14/ngwqj0h060yv40w1afp51fg7wo9ijy-pzlhk) [[Web Archive](https://web.archive.org/web/20201218181400/https://www.stratosphereips.org/blog/2020/12/14/ngwqj0h060yv40w1afp51fg7wo9ijy-pzlhk)]
+
+## Async RAT
+![First Seen](https://img.shields.io/badge/Year-2018-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange)
+
+- [AsyncRAT - GitHub](https://github.com/NYAN-x-CAT/AsyncRAT) [[Web Archive](https://web.archive.org/web/20210227184617/https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp/)]
+- [AsyncRAT - GitHub](https://github.com/NYAN-x-CAT-is-My-Brother/AsyncRAT-C-Sharp) [[Web Archive](https://web.archive.org/web/20201022072049/https://github.com/NYAN-x-CAT-is-My-Brother/AsyncRAT-C-Sharp)]
+- [AsyncRAT - TCP Asynchronous Socket - Remote Administration Tool - Raid Forums](https://raidforums.com/Thread-AsyncRAT-TCP-Asynchronous-Socket-Remote-Administration-Tool) [[Web Archive](https://web.archive.org/web/20210705145425/https://raidforums.com/Thread-AsyncRAT-TCP-Asynchronous-Socket-Remote-Administration-Tool)]
 
 ## Atelier Web Remote Commander
 
@@ -71,6 +84,11 @@ This repository contains a curated list of papers, articles and other sources re
 - [2015 Tools used by the Uroburos actors](https://docplayer.net/101655589-Tools-used-by-the-uroburos-actors.html) [[Web Archive](https://web.archive.org/web/20201209182204/https://docplayer.net/101655589-Tools-used-by-the-uroburos-actors.html)]
 - [2020 From Agent.BTZ to ComRAT v4: A ten‑year journey](https://www.welivesecurity.com/2020/05/26/agentbtz-comratv4-ten-year-journey/) [[Web Archive](https://web.archive.org/web/20200526112123/https://www.welivesecurity.com/2020/05/26/agentbtz-comratv4-ten-year-journey/)] 
 
+## Coringa RAT (njRAT variant)
+![First Seen](https://img.shields.io/badge/Year-2016-blue) 
+
+- [Coringa-RAT v0.3](http://oficialtrajan.blogspot.com/2017/02/coringa-rat-v03.html) [[Web Archive](http://web.archive.org/web/20181014103934/http://oficialtrajan.blogspot.com/2017/02/coringa-rat-v03.html)]
+- [Coringa-RAT 0.3 Espanol RAT - HackForums](https://hackforums.net/showthread.php?tid=5416733&highlight=RAT) [[Web Archive](http://web.archive.org/web/20210705130131/https://hackforums.net/showthread.php?tid=5416733&highlight=RAT)]
 
 ## CyberGate RAT
 
@@ -106,6 +124,16 @@ This repository contains a curated list of papers, articles and other sources re
 - [2002 DIRT Guide](http://cryptome.org/dirt-guide.htm) [[Web Archive](https://web.archive.org/web/20191227104050/http://cryptome.org/dirt-guide.htm)]
 - [2002 Cryptome dishes the Dirt](http://www.vnunet.com/News/1130192) [[Web Archive](https://web.archive.org/web/20020604015129/http://www.vnunet.com/News/1130192)]
 - [2014 D.I.R.T](http://justinakapaste.com/dirt/) [[Web Archive](https://web.archive.org/web/20200329095513/http://justinakapaste.com/dirt/)]
+
+## DroidJack RAT
+![First Seen](https://img.shields.io/badge/Year-2014-blue) ![Targets](https://img.shields.io/badge/Targets-Android-orange)
+
+- [Using DroidJack spyware to snoop on your spouse could get you arrested - Sophis](https://nakedsecurity.sophos.com/2015/10/31/using-droidjack-spyware-to-snoop-on-your-spouse-could-get-you-arrested/) [[Web Archive](https://web.archive.org/web/20201224003924/https://nakedsecurity.sophos.com/2015/10/31/using-droidjack-spyware-to-snoop-on-your-spouse-could-get-you-arrested/)]
+- [Iranian Hackers’ Rising Interest in Targeting Android Systems With DroidJack, AndroRAT - RecordedFuture](https://www.recordedfuture.com/iranian-forums-targeting-android/) [[Web Archive](https://web.archive.org/web/20210116175545/https://www.recordedfuture.com/iranian-forums-targeting-android/)]
+- [DroidJack RAT hits hacker forums, comes from legitimate app developers - SCMagazine](https://www.scmagazine.com/droidjack-rat-posted-for-sale-online/article/539362/) [[Web Archive](https://web.archive.org/web/20190808143206/https://www.scmagazine.com/home/security-news/droidjack-rat-hits-hacker-forums-comes-from-legitimate-app-developers/)]
+- [DroidJack RAT: A tale of how budding entrepreneurism can turn to cybercrime - Broadcom Symantec](https://community.broadcom.com/symantecenterprise/communities/community-home/librarydocuments/viewdocument?DocumentKey=10119736-5e52-4126-a3a3-31ab62ac7fa9&CommunityKey=1ecf5f55-9545-44d6-b0f4-4e4a7f5f5e68&tab=librarydocuments) [[Web Archive](https://web.archive.org/web/20210510225628/https://community.broadcom.com/symantecenterprise/communities/community-home/librarydocuments/viewdocument?DocumentKey=10119736-5e52-4126-a3a3-31ab62ac7fa9&CommunityKey=1ecf5f55-9545-44d6-b0f4-4e4a7f5f5e68&tab=librarydocuments)]
+- [Police in US, Europe raid homes of supersnoop Droidjack RAT suspects - The Register](https://www.theregister.co.uk/2015/10/30/droidjack_raids/) [[Web Archive](https://web.archive.org/web/20201108175022/https://www.theregister.com/2015/10/30/droidjack_raids/)]
+- [Using DroidJack to spy on an Android? Expect a visit from the police - Eset](https://www.welivesecurity.com/2015/10/30/using-droidjack-spy-android-expect-visit-police/) [[Web Archive](https://web.archive.org/web/20201207060821/https://www.welivesecurity.com/2015/10/30/using-droidjack-spy-android-expect-visit-police/)]
 
 ## Girlfriend
 
@@ -161,6 +189,12 @@ This repository contains a curated list of papers, articles and other sources re
 
 - [2020 JhoneRAT: Cloud based python RAT targeting Middle Eastern countries](https://blog.talosintelligence.com/2020/01/jhonerat.html) [[Web Archive](https://web.archive.org/web/20200411085247/https://blog.talosintelligence.com/2020/01/jhonerat.html)]
 - [2020 JhoneRat – a snake in the network](https://www.cyjax.com/2020/01/21/jhonerat-a-multi-stage-targeted-malware-infection/) [[Web Archive](https://web.archive.org/web/20200922080847/https://www.cyjax.com/2020/01/21/jhonerat-a-multi-stage-targeted-malware-infection/)]
+
+## KevDroid RAT
+![First Seen](https://img.shields.io/badge/Year-2018-blue) ![Targets](https://img.shields.io/badge/Targets-Android-orange)
+
+- [Fake AV Investigation Unearths KevDroid, New Android Malware - Cisco Talos](http://blog.talosintelligence.com/2018/04/fake-av-investigation-unearths-kevdroid.html) [[Web Archive](https://web.archive.org/web/20210224211712/https://blog.talosintelligence.com/2018/04/fake-av-investigation-unearths-kevdroid.html)]
+- [KevDroid - NJCCIC Threat Profile](https://www.cyber.nj.gov/threat-profiles/android-malware-variants/kevdroid) [[Web Archive](https://web.archive.org/web/20210705150438/https://www.cyber.nj.gov/threat-profiles/android-malware-variants/kevdroid)]
 
 ## LokiTech
 
@@ -219,7 +253,6 @@ This repository contains a curated list of papers, articles and other sources re
 - [PC-FREAK: NokNok](https://www.pc-freak.net/tutorials/hacking_info/trojans_info/tr_data/y2372.html) [[Web Archive](https://web.archive.org/web/20200329090040/https://www.pc-freak.net/tutorials/hacking_info/trojans_info/tr_data/y2372.html)]
 - [2004 TROJAN: NokNok Client Command](http://services.netscreen.com/documentation/signatures/TROJAN%3AMISC%3ANOKNOK-COMMAND.html) [[Web Archive](https://web.archive.org/web/20201220120901/http://services.netscreen.com/documentation/signatures/TROJAN:MISC:NOKNOK-COMMAND.html)]
 
-
 ## ObliqueRAT
 
 ![First Seen](https://img.shields.io/badge/Year-2020-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange)
@@ -227,6 +260,14 @@ This repository contains a curated list of papers, articles and other sources re
 - [2020 ObliqueRAT: New RAT hits victims' endpoints via malicious documents](https://blog.talosintelligence.com/2020/02/obliquerat-hits-victims-via-maldocs.html) [[Web Archive](https://web.archive.org/web/20200311091640/https://blog.talosintelligence.com/2020/02/obliquerat-hits-victims-via-maldocs.html)]
 - [2020 Transparent Tribe: Evolution analysis, part 2](https://securelist.com/transparent-tribe-part-2/98233/) [[Web Archive](https://web.archive.org/web/20201026064017/https://securelist.com/transparent-tribe-part-2/98233/)]
 - [South Asia APT organizes the "transparent tribe" to compete with opponents on mobile](https://www.secrss.com/articles/24995) [[Web Archive](https://web.archive.org/web/20201203173735/https://www.secrss.com/articles/24995)]
+
+## Overseer RAT
+![First Seen](https://img.shields.io/badge/Year-2018-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange)
+
+- [Free 3 Month License to OverSeer RAT (Silent Miner RAT with inbuilt crypter) - HackForums](https://hackforums.net/showthread.php?tid=5790586&highlight=RAT)
+- [Overseer RAT : 0.2 - Nulled](https://nulledbb.com/thread-Overseer-RAT-0-2) [[Web Archive](https://web.archive.org/web/20210705143237/https://nulledbb.com/thread-Overseer-RAT-0-2)]
+- [MONERO AND WANNAMINE - The cyber-criminal cryptocurrency and miner malware of choice - Accenture](https://www.accenture.com/t20180322T091347Z__w__/us-en/_acnmedia/PDF-46/Accenture-Threat-Analysis-Monero-Wannamine.pdf) [[Web Archive](https://web.archive.org/web/20201109015759/https://www.accenture.com/t20180322T091347Z__w__/us-en/_acnmedia/PDF-46/Accenture-Threat-Analysis-Monero-Wannamine.pdf)]
+
 
 ## Pandora
 
@@ -262,6 +303,10 @@ This repository contains a curated list of papers, articles and other sources re
 - [2015 New RATs Emerge from Leaked Njw0rm Source Code ](http://blog.trendmicro.com/trendlabs-security-intelligence/new-rats-emerge-from-leaked-njw0rm-source-code/) [[Web Archive](https://www.trendmicro.com/en_us/research/15/a/new-rats-emerge-from-leaked-njw0rm-source-code.html)]
 - [2020 Carders: ProRat ~Best and Free Remote Administration Tools~Backdoor Trojan Horse](https://carders.ws/threads/prorat-best-and-free-remote-administration-tools-backdoor-trojan-horse.2474/) [[Web Archive](https://web.archive.org/web/20201209152819/https://carders.ws/threads/prorat-best-and-free-remote-administration-tools-backdoor-trojan-horse.2474/)]
 
+## PubNub RAT
+![First Seen](https://img.shields.io/badge/Year-2018-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange)
+
+- [Fake AV Investigation Unearths KevDroid, New Android Malware - Cisco Talos](http://blog.talosintelligence.com/2018/04/fake-av-investigation-unearths-kevdroid.html) [[Web Archive](https://web.archive.org/web/20210224211712/https://blog.talosintelligence.com/2018/04/fake-av-investigation-unearths-kevdroid.html)]
 
 ## Socket23
 
@@ -339,3 +384,12 @@ This repository contains a curated list of papers, articles and other sources re
 
 - [2007 Romanian Security Team Forum: xHacker 3.0 PRO Leaked!](https://rstforums.com/forum/topic/7347-xhacker-30-pro-leaked/) [[Web Archive](https://web.archive.org/web/20201209220530/https://rstforums.com/forum/topic/7347-xhacker-30-pro-leaked/)]
 - [2016 Quora: How can I build a RAT (Remote Access Trojan) from scratch? For educational purposes only](https://www.quora.com/How-can-I-build-a-RAT-Remote-Access-Trojan-from-scratch-For-educational-purposes-only)
+
+## WebMonitor RAT
+![First Seen](https://img.shields.io/badge/Year-2017-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange)
+
+- [Revcode Website]() [[Web Archive](https://web.archive.org/web/20171010130157/https://revcode.eu/)]
+- [WebMonitor RAT [PC + Android, Keylogger (No root), C++, No PORTFORWARD] #1 ON MARKET - HackForums](https://hackforums.net/showthread.php?tid=5621975&highlight=Webmonitor) [[Web Archive](https://web.archive.org/web/20210705171047/https://hackforums.net/showthread.php?tid=5621975&highlight=Webmonitor)]
+- [Say “Cheese”: WebMonitor RAT Comes with C2-as-a-Service (C2aaS) - PaloAlto Networks](https://unit42.paloaltonetworks.com/unit42-say-cheese-webmonitor-rat-comes-c2-service-c2aas/) [[Web Archive](https://web.archive.org/web/20201208215425/https://unit42.paloaltonetworks.com/unit42-say-cheese-webmonitor-rat-comes-c2-service-c2aas/)]
+- [Who’s Behind the RevCode WebMonitor RAT?](https://krebsonsecurity.com/2019/04/whos-behind-the-revcode-webmonitor-rat/) [[Web Archive](https://web.archive.org/web/20210126064730/https://krebsonsecurity.com/2019/04/whos-behind-the-revcode-webmonitor-rat/)]
+- [WebMonitor RAT Bundled with Zoom Installer](https://www.trendmicro.com/en_us/research/20/d/webmonitor-rat-bundled-with-zoom-installer.html) [[Web Archive](https://web.archive.org/web/20210121163811/https://www.trendmicro.com/en_us/research/20/d/webmonitor-rat-bundled-with-zoom-installer.html)]
