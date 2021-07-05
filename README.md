@@ -314,3 +314,13 @@ This repository contains a curated list of papers, articles and other sources re
 ![First Seen](https://img.shields.io/badge/Year-2003-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange)
 
 - [Vigilix Homepage](https://vigilix.com) [[Web Archive](https://web.archive.org/web/20030904035527/http://www.vigilix.com/)]
+
+
+## WebMonitor RAT
+![First Seen](https://img.shields.io/badge/Year-2017-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange)
+
+- [Revcode Website]() [[Web Archive](https://web.archive.org/web/20171010130157/https://revcode.eu/)]
+- [WebMonitor RAT [PC + Android, Keylogger (No root), C++, No PORTFORWARD] #1 ON MARKET - HackForums](https://hackforums.net/showthread.php?tid=5621975&highlight=Webmonitor) [[Web Archive](https://web.archive.org/web/20210705171047/https://hackforums.net/showthread.php?tid=5621975&highlight=Webmonitor)]
+- [Say “Cheese”: WebMonitor RAT Comes with C2-as-a-Service (C2aaS) - PaloAlto Networks](https://unit42.paloaltonetworks.com/unit42-say-cheese-webmonitor-rat-comes-c2-service-c2aas/) [[Web Archive](https://web.archive.org/web/20201208215425/https://unit42.paloaltonetworks.com/unit42-say-cheese-webmonitor-rat-comes-c2-service-c2aas/)]
+- [Who’s Behind the RevCode WebMonitor RAT?](https://krebsonsecurity.com/2019/04/whos-behind-the-revcode-webmonitor-rat/) [[Web Archive](https://web.archive.org/web/20210126064730/https://krebsonsecurity.com/2019/04/whos-behind-the-revcode-webmonitor-rat/)]
+- [WebMonitor RAT Bundled with Zoom Installer](https://www.trendmicro.com/en_us/research/20/d/webmonitor-rat-bundled-with-zoom-installer.html) [[Web Archive](https://web.archive.org/web/20210121163811/https://www.trendmicro.com/en_us/research/20/d/webmonitor-rat-bundled-with-zoom-installer.html)]
