@@ -71,6 +71,11 @@ This repository contains a curated list of papers, articles and other sources re
 - [2015 Tools used by the Uroburos actors](https://docplayer.net/101655589-Tools-used-by-the-uroburos-actors.html) [[Web Archive](https://web.archive.org/web/20201209182204/https://docplayer.net/101655589-Tools-used-by-the-uroburos-actors.html)]
 - [2020 From Agent.BTZ to ComRAT v4: A ten‑year journey](https://www.welivesecurity.com/2020/05/26/agentbtz-comratv4-ten-year-journey/) [[Web Archive](https://web.archive.org/web/20200526112123/https://www.welivesecurity.com/2020/05/26/agentbtz-comratv4-ten-year-journey/)] 
 
+## Coringa RAT (njRAT variant)
+![First Seen](https://img.shields.io/badge/Year-2016-blue) 
+
+- [Coringa-RAT v0.3](http://oficialtrajan.blogspot.com/2017/02/coringa-rat-v03.html) [[Web Archive]](http://web.archive.org/web/20181014103934/http://oficialtrajan.blogspot.com/2017/02/coringa-rat-v03.html)
+- [Coringa-RAT 0.3 Espanol RAT - HackForums](https://hackforums.net/showthread.php?tid=5416733&highlight=RAT) [[Web Archive]](http://web.archive.org/web/20210705130131/https://hackforums.net/showthread.php?tid=5416733&highlight=RAT)
 
 ## CyberGate RAT
 
