@@ -257,6 +257,13 @@ This repository contains a curated list of papers, articles and other sources re
 - [2020 Transparent Tribe: Evolution analysis, part 2](https://securelist.com/transparent-tribe-part-2/98233/) [[Web Archive](https://web.archive.org/web/20201026064017/https://securelist.com/transparent-tribe-part-2/98233/)]
 - [South Asia APT organizes the "transparent tribe" to compete with opponents on mobile](https://www.secrss.com/articles/24995) [[Web Archive](https://web.archive.org/web/20201203173735/https://www.secrss.com/articles/24995)]
 
+## OverSeer RAT
+![First Seen](https://img.shields.io/badge/Year-2018-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange)
+
+- [Free 3 Month License to OverSeer RAT (Silent Miner RAT with inbuilt crypter) - HackForums](https://hackforums.net/showthread.php?tid=5790586&highlight=RAT)
+- [Overseer RAT : 0.2 - Nulled](https://nulledbb.com/thread-Overseer-RAT-0-2)
+- [MONERO AND WANNAMINE - The cyber-criminal cryptocurrency and miner malware of choice - Accenture](https://www.accenture.com/t20180322T091347Z__w__/us-en/_acnmedia/PDF-46/Accenture-Threat-Analysis-Monero-Wannamine.pdf) [[Web Archive]](https://web.archive.org/web/20201109015759/https://www.accenture.com/t20180322T091347Z__w__/us-en/_acnmedia/PDF-46/Accenture-Threat-Analysis-Monero-Wannamine.pdf)
+
 ## Pandora
 
 ![First Seen](https://img.shields.io/badge/Year-2002-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange)
