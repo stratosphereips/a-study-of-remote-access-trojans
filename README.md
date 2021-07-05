@@ -1,4 +1,4 @@
-# Awesome Remote Access Trojans [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# A Study of Remote Access Trojans
 
 This repository contains a curated list of papers, articles and other sources related to remote access trojans. Entries are sorted alphabetically. For corrections, suggestions, or missing papers, please either open an issue or submit a pull request. 
 
