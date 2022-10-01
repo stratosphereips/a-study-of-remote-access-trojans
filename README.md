@@ -2,6 +2,13 @@
 
 This repository contains a curated list of papers, articles and other sources related to remote access trojans. Entries are sorted alphabetically. For corrections, suggestions, or missing papers, please either open an issue or submit a pull request. 
 
+Coverage of this Study of RATs:
+
+- [Nov 9, 2020 - What is a RAT? How remote access Trojans became a major threat | CSO Online](https://www.csoonline.com/article/3588156/from-pranks-to-apts-how-remote-access-trojans-became-a-major-security-threat.html) (accessed Oct. 01, 2022).
+
+
+# Remote Access Trojans
+
 ## A4zeta
 
 ![First Seen](https://img.shields.io/badge/Year-2002-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange) ![Server Source Code](https://img.shields.io/badge/Server-delphi-yellow)
