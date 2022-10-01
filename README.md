@@ -223,7 +223,7 @@ This repository contains a curated list of papers, articles and other sources re
 
 
 ## Nerbian
-![First Seen](https://img.shields.io/badge/Year-2022-blue) ![Targets](https://img.shields.io/badge/Targets-multiplatform-orange) ![Source Code](https://img.shields.io/badge/go-yellow)
+![First Seen](https://img.shields.io/badge/Year-2022-blue) ![Targets](https://img.shields.io/badge/Targets-multiplatform-orange) ![Source Code](https://img.shields.io/badge/Language-go-yellow)
 
 
 - [2022 Proofpoint: Nerbian RAT Using COVID-19 Themes Features Sophisticated Evasion Techniques](https://www.proofpoint.com/us/blog/threat-insight/nerbian-rat-using-covid-19-themes-features-sophisticated-evasion-techniques) 
