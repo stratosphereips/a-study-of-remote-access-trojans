@@ -221,6 +221,14 @@ This repository contains a curated list of papers, articles and other sources re
 
 - [Megasecurity: MRA Rat 1.0](http://www.megasecurity.org/trojans/m/mrarat/Mrarat1.0.html) [[Web Archive](https://web.archive.org/web/20030629041730/http://www.megasecurity.org/trojans/m/mrarat/Mrarat1.0.html)]
 
+## Nerbian
+![First Seen](https://img.shields.io/badge/Year-2002-blue)
+
+- [2022 Proofpoint: Nerbian RAT Using COVID-19 Themes Features Sophisticated Evasion Techniques](https://www.proofpoint.com/us/blog/threat-insight/nerbian-rat-using-covid-19-themes-features-sophisticated-evasion-techniques) 
+- [2022 Bleeping Computer: New stealthy Nerbian RAT malware spotted in ongoing attacks](https://www.bleepingcomputer.com/news/security/new-stealthy-nerbian-rat-malware-spotted-in-ongoing-attacks/)
+- [2022 Infosec Institute: Nerbian RAT Using COVID-19 templates](https://resources.infosecinstitute.com/topic/nerbian-rat-using-covid-19-templates/)
+
+
 ## Net Devil
 
 ![First Seen](https://img.shields.io/badge/Year-2002-blue) ![Targets](https://img.shields.io/badge/Targets-Windows-orange)
