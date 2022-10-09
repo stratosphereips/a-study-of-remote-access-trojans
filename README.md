@@ -1,4 +1,5 @@
 # A Study of Remote Access Trojans
+[![CI](https://github.com/stratosphereips/a-study-of-remote-access-trojans/actions/workflows/md_link_check.yml/badge.svg)](https://github.com/stratosphereips/a-study-of-remote-access-trojans/actions/workflows/md_link_check.yml)
 
 This repository contains a curated list of papers, articles and other sources related to remote access trojans. Entries are sorted alphabetically. For corrections, suggestions, or missing papers, please either open an issue or submit a pull request. 
 
